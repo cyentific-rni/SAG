@@ -39,7 +39,7 @@ sdo:intrusion-set
 The new enriched intrusion-set (group) objects with the `primary_motivation` property populated relate to the existing MITRE-created `intrusion-set` objects via the `derived-from` relationship object.
 
 <p align="center">
-  <img src="/figures/fig1.png" width="40%">
+  <img src="/images/fig1.png" width="40%">
 </p>
 
 <br/>
