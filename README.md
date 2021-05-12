@@ -1,6 +1,88 @@
 ## Summary
-This repository provides an elevated [STIX](https://oasis-open.github.io/cti-documentation/stix/intro.html) representation of the [MITRE ATT&CK Groups' knowledge base](https://attack.mitre.org/groups/), structurally extending the one provided in the [Official MITRE GitHub Repository](https://github.com/mitre/cti/tree/master/enterprise-attack/intrusion-set).
+This repository provides an elevated [STIX](https://oasis-open.github.io/cti-documentation/stix/intro.html) representation of the [MITRE ATT&CK Groups knowledge base](https://attack.mitre.org/groups/), structurally extending the one provided in the [Official MITRE GitHub Repository](https://github.com/mitre/cti/tree/master/enterprise-attack/intrusion-set).
 
 The version/commit that has been used for this project is [eb1b9385d44340ce867a77358c5f5aaed666e54c](https://github.com/mitre/cti/tree/eb1b9385d44340ce867a77358c5f5aaed666e54c/enterprise-attack/intrusion-set).
 
-In particular, the objects available in this repository make the existing adversary information programmatically more accessible, allowing it to more easily being queried upon and correlated with other sources and knowledge bases. The information has been extracted from the available Group prose descriptions.
+In particular, this project aimed to make the existing information in the ATT&CK Groups knowledge base programmatically more accessible, allowing it to more easily being queried upon and correlated with other sources and knowledge bases. The information used to extend and enrich the ATT&CK Groups STIX representation has been derived from the available prose descriptions.
+
+---
+
+**This repository includes:**
+
+* STIX relationship objects and domain objects indicating the location (country) the groups/intrusion-sets appear to originate from.
+
+`
+sdo:intrusion-set -> sro:originates-from -> sdo:location
+`
+
+* STIX relationship objects and domain objects indicating the locations (countries) the groups/intrusion-sets have been observed targeting.
+
+`
+sdo:intrusion-set -> sro:targets -> sdo:location
+`
+
+* STIX relationship objects and domain objects indicating the sectors (industries) the groups/intrusion-sets have been observed targeting (using the `sectors` property in the `identity` object).
+
+`
+sdo:intrusion-set -> sro:targets -> sdo:identity
+`
+
+* new `intrusion-set` objects that additionally represent the motivation factor of a group (using the `primary_motivation` property in the `intrusion-set` object).
+
+`
+sdo:intrusion-set
+`
+
+---
+
+
+The new enriched intrusion-set (group) objects with the `primary_motivation` property populated relate to the existing MITRE-created `intrusion-set` objects via the `derived-from` relationship object.
+
+<p align="center">
+  <img src="/figures/fig1.png" width="40%">
+</p>
+
+<br/>
+
+The entity that created a STIX Object is an inherent, factual part of that object and therefore that information is captured in an embedded relationship contained in the `created_by_ref` property.
+
+## How do i operationalize this work and access the ATT&CK STIX representation?
+
+The STIX objects available in this repository **complement** the ones found in the [Official MITRE GitHub Repository](https://github.com/mitre/cti/tree/eb1b9385d44340ce867a77358c5f5aaed666e54c/enterprise-attack); thus, the objects from both repositories should be utilized/imported.
+
+In addition, to avoid duplicating objects, we utilized the [STIX location objects](https://github.com/oasis-open/cti-stix-common-objects/tree/main/objects/location) from the OASIS CTI TC [common objects repository](https://github.com/oasis-open/cti-stix-common-objects) to connect the intrusion sets/ATT&CK Groups with their possible origin and targeted countries, and thus, those objects should be utilized/imported too. The location objects have been created based on the ISO 3166-1 standard, and they contain a valid ISO 3166-1 ALPHA-2 Code using the country property.
+
+**Overall to make use of this project, the following objects need to be utilized/imported:**
+
+1. The STIX Objects available in the folders [intrusion-set](), [identity](), and [location]() of this repository (required).
+2. The MITRE-generated STIX Objects available in the folder [intrusion-set](https://github.com/mitre/cti/tree/master/enterprise-attack/intrusion-set) (required) within the [enterprise-attack](https://github.com/mitre/cti/tree/master/enterprise-attack) folder in GitHub, and optionally the rest of the object folders.
+3. The STIX Objects available in the folders [location](https://github.com/oasis-open/cti-stix-common-objects/tree/main/objects/location) of the OASIS CTI TC.
+
+The ATT&CK STIX representation is most easily manipulated in Python using the stix2 library. However, because STIX 2.0 is represented in JSON, other programming languages can easily interact with the raw content [3]. Also, dedicated efforts that work with STIX can be used (e.g., the OpenCTI platform).
+
+## Confidence level
+
+The additional structured information provided in the feeds of this repository have been extracted from the descriptions of the MITRE ATT&CK Groups and should not be immediately considered of high confidence. The extraction has been performed programmatically using Natural Language Processing (NLP).
+
+## Glossary
+
+sdo: STIX Domain Object
+
+sro: STIX Relationship Object
+
+## References
+
+[1] Slide deck regarding the idea/concept, presented at the 6th EU MITRE ATT&CK Workshop (October 23, 2020): [Presentation 9](https://web.tresorit.com/l/FDl4u#NHx11i1KRZQQjHFGg01Jsg&viewer=o0IL9EDvNwpAxQ54TpClIFyBxFRaTFbq)
+
+[2] “Adversarial Tactics, Techniques & Common Knowledge (ATT&CK),” MITRE, 2021. [Online]. Available: https://attack.mitre.org/groups/
+
+[3] “Accessing ATT&CK Data,” MITRE, 2021. [Online]. Available: https://attack.mitre.org/resources/working-with-attack/
+
+[4] MITRE Github - STIX interface for ATT&CK, MITRE, 2021. Accessed: May 1, 2021. [Online]. Available: https://github.com/mitre/cti/tree/master/enterprise-attack/intrusion-set.
+(Note: commit eb1b9385d44340ce867a77358c5f5aaed666e54c)
+
+
+## Research Team
+
+* [Vasileios Mavroeidis](https://www.linkedin.com/in/vasileiosmavroeidis/)
+* [Mateusz Zych](https://www.linkedin.com/in/mateuszzych/)
