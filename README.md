@@ -15,7 +15,7 @@ In particular, this project aimed to make the existing information in the ATT&CK
 sdo:intrusion-set -> sro:originates-from -> sdo:location
 `
 
-* STIX relationship objects and domain objects indicating the locations (countries) the groups/intrusion-sets have been observed targeting.
+* STIX relationship objects and domain objects indicating the locations (countries and regions) the groups/intrusion-sets have been observed targeting.
 
 `
 sdo:intrusion-set -> sro:targets -> sdo:location
@@ -50,7 +50,7 @@ The entity that created a STIX Object is an inherent, factual part of that objec
 
 The STIX objects available in this repository **complement** the ones found in the [Official MITRE GitHub Repository](https://github.com/mitre/cti/tree/eb1b9385d44340ce867a77358c5f5aaed666e54c/enterprise-attack); thus, the objects from both repositories should be utilized/imported.
 
-In addition, to avoid duplicating objects, we utilized the [STIX location objects](https://github.com/oasis-open/cti-stix-common-objects/tree/main/objects/location) from the OASIS CTI TC [common objects repository](https://github.com/oasis-open/cti-stix-common-objects) to connect the intrusion sets/ATT&CK Groups with their possible origin and targeted countries, and thus, those objects should be utilized/imported too. The location objects have been created based on the ISO 3166-1 standard, and they contain a valid ISO 3166-1 ALPHA-2 Code using the country property.
+In addition, to avoid duplicating objects, we utilized the [STIX location objects](https://github.com/oasis-open/cti-stix-common-objects/tree/main/objects/location) from the OASIS CTI TC [common objects repository](https://github.com/oasis-open/cti-stix-common-objects) to connect the intrusion sets/ATT&CK Groups with their possible origin and targeted countries/regions, and thus, those objects should be utilized/imported too. The location objects have been created based on the ISO 3166-1 standard, and they contain a valid ISO 3166-1 ALPHA-2 Code using the country property.
 
 **Overall to make use of this project, the following objects need to be utilized/imported:**
 
