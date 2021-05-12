@@ -56,7 +56,7 @@ In addition, to avoid duplicating objects, we utilized the [STIX location object
 
 1. The STIX Objects available in the folders [intrusion-set](), [identity](), and [location]() of this repository (required).
 2. The MITRE-generated STIX Objects available in the folder [intrusion-set](https://github.com/mitre/cti/tree/master/enterprise-attack/intrusion-set) (required) within the [enterprise-attack](https://github.com/mitre/cti/tree/master/enterprise-attack) folder in GitHub, and optionally the rest of the object folders.
-3. The STIX Objects available in the folders [location](https://github.com/oasis-open/cti-stix-common-objects/tree/main/objects/location) of the OASIS CTI TC.
+3. The STIX Objects available in the folders [location](https://github.com/oasis-open/cti-stix-common-objects/tree/main/objects/location) of the OASIS CTI TC (required).
 
 The ATT&CK STIX representation is most easily manipulated in Python using the stix2 library. However, because STIX 2.0 is represented in JSON, other programming languages can easily interact with the raw content [3]. Also, dedicated efforts that work with STIX can be used (e.g., the OpenCTI platform).
 
