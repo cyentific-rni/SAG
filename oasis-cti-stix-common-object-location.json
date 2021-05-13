@@ -1,0 +1,4662 @@
+{
+    "objects": [
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--cf629038-06bd-40a7-a5f5-5bf18bc33910",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.114169Z",
+            "modified": "2021-03-13T20:09:21.114169Z",
+            "name": "Russian Federation",
+            "country": "RU",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--24f422ce-80f9-42ce-905f-eea869dee708",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.208124Z",
+            "modified": "2021-03-13T20:09:21.208124Z",
+            "name": "Southern Europe",
+            "region": "southern-europe",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--15240b6c-bed3-42ab-a281-b66668825fa8",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.970069Z",
+            "modified": "2021-03-13T20:09:20.970069Z",
+            "name": "Dominica",
+            "country": "DM",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--cf0f911e-5cc1-4c64-bb0f-7096d59a1ef3",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.977251Z",
+            "modified": "2021-03-13T20:09:20.977251Z",
+            "name": "Eritrea",
+            "country": "ER",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--56fb85e9-4dc6-4b1b-8fda-4c14dc5db303",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.03883Z",
+            "modified": "2021-03-13T20:09:21.03883Z",
+            "name": "Korea, Republic of",
+            "country": "KR",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--53bf8a08-de1e-4b49-8cfe-0a64aecfac8a",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.043078Z",
+            "modified": "2021-03-13T20:09:21.043078Z",
+            "name": "Liberia",
+            "country": "LR",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--42f08c3c-7a00-4ac8-a76c-d6af6be78761",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.057905Z",
+            "modified": "2021-03-13T20:09:21.057905Z",
+            "name": "Moldova, Republic of",
+            "country": "MD",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--cd30c2df-9e02-4ab9-8b79-b693d4470b54",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.136244Z",
+            "modified": "2021-03-13T20:09:21.136244Z",
+            "name": "Slovenia",
+            "country": "SI",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--d9379522-747e-4e3f-82f8-760ef6ed665f",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.120005Z",
+            "modified": "2021-03-13T20:09:21.120005Z",
+            "name": "Singapore",
+            "country": "SG",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--3d526f45-7702-45e2-bc9d-903d201d9681",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.152686Z",
+            "modified": "2021-03-13T20:09:21.152686Z",
+            "name": "Tonga",
+            "country": "TO",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--390126d6-e7fc-4314-8879-155919764b98",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.146437Z",
+            "modified": "2021-03-13T20:09:21.146437Z",
+            "name": "Thailand",
+            "country": "TH",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--53a85a5e-bffb-4fec-8c75-a85a721761e6",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.283004Z",
+            "modified": "2021-03-13T20:09:21.283004Z",
+            "name": "West Virginia",
+            "country": "US",
+            "administrative_area": "US-WV",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--de2cad60-9818-46d6-807c-293dbd612378",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.896645Z",
+            "modified": "2021-03-13T20:09:20.896645Z",
+            "name": "Albania",
+            "country": "AL",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--4f82af19-bc16-417a-86ce-3ee2ad6cbc97",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.989515Z",
+            "modified": "2021-03-13T20:09:20.989515Z",
+            "name": "Gabon",
+            "country": "GA",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--3b542e4f-1668-4641-893e-ca9b6d96b357",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.067062Z",
+            "modified": "2021-03-13T20:09:21.067062Z",
+            "name": "Myanmar",
+            "country": "MM",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--d76b8607-edb7-412a-8f7d-a4a613a0a09d",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.016638Z",
+            "modified": "2021-03-13T20:09:21.016638Z",
+            "name": "Indonesia",
+            "country": "ID",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--fc2240b3-3060-44a7-a431-8f1851c5b36c",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.110994Z",
+            "modified": "2021-03-13T20:09:21.110994Z",
+            "name": "Qatar",
+            "country": "QA",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--a7801cf0-c5d7-42ce-a091-e643779235ff",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.064919Z",
+            "modified": "2021-03-13T20:09:21.064919Z",
+            "name": "Mali",
+            "country": "ML",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--d2e7b249-5b15-485c-8eb7-8817c37aaccb",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.918915Z",
+            "modified": "2021-03-13T20:09:20.918915Z",
+            "name": "Bahrain",
+            "country": "BH",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--4025caa4-4252-42ed-8b7b-1bcd61efd8b5",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.226912Z",
+            "modified": "2021-03-13T20:09:21.226912Z",
+            "name": "Prince Edward Island",
+            "country": "CA",
+            "administrative_area": "PE",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--0e57d0fe-f207-4b63-9cf5-c8bd2f350707",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.971739Z",
+            "modified": "2021-03-13T20:09:20.971739Z",
+            "name": "Denmark",
+            "country": "DK",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--518e6c5f-0cd4-457c-ab5b-db660338fd25",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.228158Z",
+            "modified": "2021-03-13T20:09:21.228158Z",
+            "name": "Quebec",
+            "country": "CA",
+            "administrative_area": "QC",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--49ad2794-036f-4d44-b826-ae29192861d4",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.266896Z",
+            "modified": "2021-03-13T20:09:21.266896Z",
+            "name": "North Carolina",
+            "country": "US",
+            "administrative_area": "US-NC",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--23e7707b-236f-404b-ada0-684510085983",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.293995Z",
+            "modified": "2021-03-13T20:09:21.293995Z",
+            "name": "Armed Forces Africa",
+            "country": "US",
+            "administrative_area": "US-AE",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--c2bff99c-58eb-46c8-a17c-8e7aab499261",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.030883Z",
+            "modified": "2021-03-13T20:09:21.030883Z",
+            "name": "Japan",
+            "country": "JP",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--5e60a81b-b7f4-410c-b619-ec372be83b2e",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.289572Z",
+            "modified": "2021-03-13T20:09:21.289572Z",
+            "name": "Northern Mariana Islands",
+            "country": "US",
+            "administrative_area": "US-MP",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--c21858e9-d1bb-400e-b56d-3e487e02667e",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.20917Z",
+            "modified": "2021-03-13T20:09:21.20917Z",
+            "name": "Western Europe",
+            "region": "western-europe",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--3c391a4e-c16f-4780-8d40-a92f87ee13de",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.90617Z",
+            "modified": "2021-03-13T20:09:20.90617Z",
+            "name": "Antigua and Barbuda",
+            "country": "AG",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--8aa640ae-64fc-4d92-aecd-f9c56729a1a2",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.271181Z",
+            "modified": "2021-03-13T20:09:21.271181Z",
+            "name": "Oregon",
+            "country": "US",
+            "administrative_area": "US-OR",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--588ee414-8b91-4a1a-a0e3-db354e0e82a2",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.165002Z",
+            "modified": "2021-03-13T20:09:21.165002Z",
+            "name": "Uruguay",
+            "country": "UY",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--7fb24bbf-c155-4e33-8445-c21960d4494d",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.242656Z",
+            "modified": "2021-03-13T20:09:21.242656Z",
+            "name": "Hawaii",
+            "country": "US",
+            "administrative_area": "US-HI",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--b4f00968-c87c-490a-a491-8a321a04ad5d",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.92744Z",
+            "modified": "2021-03-13T20:09:20.92744Z",
+            "name": "Brazil",
+            "country": "BR",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--4179b9e4-10a2-4e14-b785-6adcfd4ad927",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.903992Z",
+            "modified": "2021-03-13T20:09:20.903992Z",
+            "name": "Antarctica",
+            "country": "AQ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--88c984bc-ab00-45b3-b058-3913ab537070",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.213272Z",
+            "modified": "2021-03-13T20:09:21.213272Z",
+            "name": "Micronesia",
+            "region": "micronesia",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--3d84968a-344f-4431-a43a-632d0d7afb86",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.97944Z",
+            "modified": "2021-03-13T20:09:20.97944Z",
+            "name": "Spain",
+            "country": "ES",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--82833dae-2c36-47b6-95f7-45a5e9248767",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.907207Z",
+            "modified": "2021-03-13T20:09:20.907207Z",
+            "name": "Australia",
+            "country": "AU",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--8f298d22-6175-4eae-9063-67105ad48203",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.062137Z",
+            "modified": "2021-03-13T20:09:21.062137Z",
+            "name": "Marshall Islands",
+            "country": "MH",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--18f03ea2-fe58-468f-a30c-1744325a41b5",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.995419Z",
+            "modified": "2021-03-13T20:09:20.995419Z",
+            "name": "Gibraltar",
+            "country": "GI",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--9e25a626-990f-44dc-842a-db5c1c033c09",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.239161Z",
+            "modified": "2021-03-13T20:09:21.239161Z",
+            "name": "Delaware",
+            "country": "US",
+            "administrative_area": "US-DE",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--f4d1d6c8-4417-4ffa-9cf4-40ba8373b43e",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.050942Z",
+            "modified": "2021-03-13T20:09:21.050942Z",
+            "name": "Luxembourg",
+            "country": "LU",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--baa2537f-894e-4a32-8099-59edc4730a98",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.096352Z",
+            "modified": "2021-03-13T20:09:21.096352Z",
+            "name": "Panama",
+            "country": "PA",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--f4d7b4af-c4e5-48a3-beef-8992c8c8f255",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.22037Z",
+            "modified": "2021-03-13T20:09:21.22037Z",
+            "name": "New Brunswick",
+            "country": "CA",
+            "administrative_area": "NB",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--3e1e05f9-fcb4-46f6-8218-85a78364f676",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.284154Z",
+            "modified": "2021-03-13T20:09:21.284154Z",
+            "name": "Wisconsin",
+            "country": "US",
+            "administrative_area": "US-WI",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--d32cd538-87dc-4944-a0ff-7a1855bab37d",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.148522Z",
+            "modified": "2021-03-13T20:09:21.148522Z",
+            "name": "Tokelau",
+            "country": "TK",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--adea9666-0260-4f36-8676-65dc48fcd833",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.911994Z",
+            "modified": "2021-03-13T20:09:20.911994Z",
+            "name": "Belgium",
+            "country": "BE",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--2401be46-bba0-4e08-9f90-00f9ed19fc9f",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.218173Z",
+            "modified": "2021-03-13T20:09:21.218173Z",
+            "name": "British Columbia",
+            "country": "CA",
+            "administrative_area": "BC",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--44bcd5e4-6ab9-487e-bfb0-954f57961c99",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.123169Z",
+            "modified": "2021-03-13T20:09:21.123169Z",
+            "name": "Svalbard and Jan Mayen",
+            "country": "SJ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--55dcb050-4e2d-4d33-9be1-6d496af31a58",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.199149Z",
+            "modified": "2021-03-13T20:09:21.199149Z",
+            "name": "Central Asia",
+            "region": "central-asia",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--714f0a0d-9eed-414d-a060-a3a3173197ed",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.940838Z",
+            "modified": "2021-03-13T20:09:20.940838Z",
+            "name": "Switzerland",
+            "country": "CH",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--db229046-7f72-4fdf-abc8-28dbfb97731a",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.93012Z",
+            "modified": "2021-03-13T20:09:20.93012Z",
+            "name": "Brunei Darussalam",
+            "country": "BN",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--b29664c7-c890-4efd-9ea7-ecd86e96dc01",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.175002Z",
+            "modified": "2021-03-13T20:09:21.175002Z",
+            "name": "Viet Nam",
+            "country": "VN",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--8f0ee55f-7b9c-4164-aecd-f9529119a15d",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.099892Z",
+            "modified": "2021-03-13T20:09:21.099892Z",
+            "name": "Philippines",
+            "country": "PH",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--edf40683-d03b-4b19-be47-46880dbbda28",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.063221Z",
+            "modified": "2021-03-13T20:09:21.063221Z",
+            "name": "North Macedonia",
+            "country": "MK",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--c33e9d80-1b47-46cb-9300-56b6b6c3fe34",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.993076Z",
+            "modified": "2021-03-13T20:09:20.993076Z",
+            "name": "Guernsey",
+            "country": "GG",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--1f3c807e-0ee7-41f9-aa54-9a65c50ab1b8",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.163764Z",
+            "modified": "2021-03-13T20:09:21.163764Z",
+            "name": "United States Minor Outlying Islands",
+            "country": "UM",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--1584dbe4-8c27-4a11-b8fe-a62de5d3121f",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.143309Z",
+            "modified": "2021-03-13T20:09:21.143309Z",
+            "name": "Turks and Caicos Islands",
+            "country": "TC",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--bdb9cbdd-c69a-4e69-a7bb-98ab274c6988",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.990667Z",
+            "modified": "2021-03-13T20:09:20.990667Z",
+            "name": "United Kingdom",
+            "country": "GB",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--5473413f-77c5-4631-a118-670356091c3f",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.171683Z",
+            "modified": "2021-03-13T20:09:21.171683Z",
+            "name": "Virgin Islands, British",
+            "country": "VG",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--1b035576-1588-4938-abe7-12969c349562",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.080549Z",
+            "modified": "2021-03-13T20:09:21.080549Z",
+            "name": "Namibia",
+            "country": "NA",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--9a9a78fa-0f7c-4daa-ad9b-7fe24e90e4ff",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.221419Z",
+            "modified": "2021-03-13T20:09:21.221419Z",
+            "name": "Newfoundland and Labrador",
+            "country": "CA",
+            "administrative_area": "NL",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--42fa4b37-383c-47fc-bc82-061f7c1533b4",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.991706Z",
+            "modified": "2021-03-13T20:09:20.991706Z",
+            "name": "Georgia",
+            "country": "GE",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--5f7f88b5-b153-49ff-a119-ca1e671cee76",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.203471Z",
+            "modified": "2021-03-13T20:09:21.203471Z",
+            "name": "Western Asia",
+            "region": "western-asia",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--86d731d5-7f78-4374-aa09-797b5ea7789c",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.173343Z",
+            "modified": "2021-03-13T20:09:21.173343Z",
+            "name": "Virgin Islands, U.S.",
+            "country": "VI",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--d5e89829-a713-441e-aee5-2b5b93bfb932",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.091792Z",
+            "modified": "2021-03-13T20:09:21.091792Z",
+            "name": "Nauru",
+            "country": "NR",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--63ffdd2e-faf3-4d87-934e-d9bb3905107a",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.922083Z",
+            "modified": "2021-03-13T20:09:20.922083Z",
+            "name": "Saint Barth\u00e9lemy",
+            "country": "BL",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--75057fa2-075a-46c7-a145-669c46b65229",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.280879Z",
+            "modified": "2021-03-13T20:09:21.280879Z",
+            "name": "Virginia",
+            "country": "US",
+            "administrative_area": "US-VA",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--fee09061-f3f7-4969-848c-37d816aa0bea",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.219312Z",
+            "modified": "2021-03-13T20:09:21.219312Z",
+            "name": "Manitoba",
+            "country": "CA",
+            "administrative_area": "MB",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--8addd451-ab70-486e-8561-8cc7eff81e81",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.048786Z",
+            "modified": "2021-03-13T20:09:21.048786Z",
+            "name": "Lesotho",
+            "country": "LS",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--3b8a57f3-7a5e-43b3-b691-f0b2ebb69b8d",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.027767Z",
+            "modified": "2021-03-13T20:09:21.027767Z",
+            "name": "Jamaica",
+            "country": "JM",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--ca3ae4f8-d31a-4f36-85d8-9e3a06b518e1",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.186775Z",
+            "modified": "2021-03-13T20:09:21.186775Z",
+            "name": "Middle Africa",
+            "region": "middle-africa",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--ab86b992-caef-4934-94c1-6dfc94a981ba",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.044218Z",
+            "modified": "2021-03-13T20:09:21.044218Z",
+            "name": "Libya",
+            "country": "LY",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--8780b0da-b45e-429d-b5b8-4a49daf059c0",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.155354Z",
+            "modified": "2021-03-13T20:09:21.155354Z",
+            "name": "Tunisia",
+            "country": "TN",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--107af6fe-4526-4080-92c2-cedf1b3d2a71",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.17611Z",
+            "modified": "2021-03-13T20:09:21.17611Z",
+            "name": "Vanuatu",
+            "country": "VU",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--9bf7246b-d01e-48ff-aabb-8ff7c0456739",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.109962Z",
+            "modified": "2021-03-13T20:09:21.109962Z",
+            "name": "French Polynesia",
+            "country": "PF",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--b9429df8-9b84-48b3-8780-25530b60c196",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.106282Z",
+            "modified": "2021-03-13T20:09:21.106282Z",
+            "name": "Portugal",
+            "country": "PT",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--02c85cd1-a4fb-4822-92c6-acfb72da0d42",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.191316Z",
+            "modified": "2021-03-13T20:09:21.191316Z",
+            "name": "Americas",
+            "region": "americas",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--427a6d29-0d30-4f09-bbf0-69b110deb590",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.07729Z",
+            "modified": "2021-03-13T20:09:21.07729Z",
+            "name": "Malawi",
+            "country": "MW",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--2430e354-274b-4db2-8802-085a6e749595",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.02185Z",
+            "modified": "2021-03-13T20:09:21.02185Z",
+            "name": "Iran, Islamic Republic of",
+            "country": "IR",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--6b89c9d0-b7e8-4fbd-87e0-1dbcba348f55",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.256811Z",
+            "modified": "2021-03-13T20:09:21.256811Z",
+            "name": "Mississippi",
+            "country": "US",
+            "administrative_area": "US-MS",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--b76bcd0f-c20b-4518-a9a9-de3e9f0474f7",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.056797Z",
+            "modified": "2021-03-13T20:09:21.056797Z",
+            "name": "Monaco",
+            "country": "MC",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--9b2df552-8531-412e-a52f-020ad2f755a3",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.287355Z",
+            "modified": "2021-03-13T20:09:21.287355Z",
+            "name": "American Samoa",
+            "country": "US",
+            "administrative_area": "US-AS",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--25480c65-6418-42de-8264-7e18e37c98e4",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.229221Z",
+            "modified": "2021-03-13T20:09:21.229221Z",
+            "name": "Saskatchewan",
+            "country": "CA",
+            "administrative_area": "SK",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--28bd8d40-f5ac-47c6-a519-b11382f8394e",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.900702Z",
+            "modified": "2021-03-13T20:09:20.900702Z",
+            "name": "Argentina",
+            "country": "AR",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--3450fba7-2de7-4ebf-b2e9-8363195129e2",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.93653Z",
+            "modified": "2021-03-13T20:09:20.93653Z",
+            "name": "Canada",
+            "country": "CA",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--5d49b449-6ed9-4b4e-a939-0ea4cde81bb3",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.952905Z",
+            "modified": "2021-03-13T20:09:20.952905Z",
+            "name": "Congo",
+            "country": "CG",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--1234d37b-9a37-482b-a8c8-2be3e08cd5db",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.240438Z",
+            "modified": "2021-03-13T20:09:21.240438Z",
+            "name": "Florida",
+            "country": "US",
+            "administrative_area": "US-FL",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--999f74df-d78b-4ceb-b7aa-fd8f2438daec",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.158709Z",
+            "modified": "2021-03-13T20:09:21.158709Z",
+            "name": "Taiwan, Province of China",
+            "country": "TW",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--aa72522a-13d7-4b52-993a-a34d00d77386",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.130499Z",
+            "modified": "2021-03-13T20:09:21.130499Z",
+            "name": "Serbia",
+            "country": "RS",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--25a5581e-7e6c-4d2e-9f93-9a01263a4c0f",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.263601Z",
+            "modified": "2021-03-13T20:09:21.263601Z",
+            "name": "New Jersey",
+            "country": "US",
+            "administrative_area": "US-NJ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--03e433c5-bbe5-4e8b-87d4-5447c9ad8cc4",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.113054Z",
+            "modified": "2021-03-13T20:09:21.113054Z",
+            "name": "Romania",
+            "country": "RO",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--03ae0cf2-352c-4266-b35a-741638737f99",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.902947Z",
+            "modified": "2021-03-13T20:09:20.902947Z",
+            "name": "American Samoa",
+            "country": "AS",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--e5696a73-f8d8-4233-ba2d-0ed9708193dd",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.019791Z",
+            "modified": "2021-03-13T20:09:21.019791Z",
+            "name": "British Indian Ocean Territory",
+            "country": "IO",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--938e41be-2ba6-45c8-8e2d-30c53903a20a",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.913077Z",
+            "modified": "2021-03-13T20:09:20.913077Z",
+            "name": "Benin",
+            "country": "BJ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--f5af7504-0615-43af-b696-2685d52618fb",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.145398Z",
+            "modified": "2021-03-13T20:09:21.145398Z",
+            "name": "Togo",
+            "country": "TG",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--40c5cbc1-ce41-41de-97f3-02352bdd76e9",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.190153Z",
+            "modified": "2021-03-13T20:09:21.190153Z",
+            "name": "Western Africa",
+            "region": "western-africa",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--2b5930ea-2137-4180-aca1-b60a1b8ff29e",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.264766Z",
+            "modified": "2021-03-13T20:09:21.264766Z",
+            "name": "New Mexico",
+            "country": "US",
+            "administrative_area": "US-NM",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--2808ddf2-c5c0-44b8-afeb-c0f3d481b10d",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.124213Z",
+            "modified": "2021-03-13T20:09:21.124213Z",
+            "name": "Solomon Islands",
+            "country": "SB",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--93ce9242-7ff5-4b4f-9451-c3ad4c00a640",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.128433Z",
+            "modified": "2021-03-13T20:09:21.128433Z",
+            "name": "Somalia",
+            "country": "SO",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--bf7603cb-92eb-4ebf-80ae-d25861519c7b",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.279833Z",
+            "modified": "2021-03-13T20:09:21.279833Z",
+            "name": "Vermont",
+            "country": "US",
+            "administrative_area": "US-VT",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--49f3c8e9-3215-4bd2-adb6-724d1172081a",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.273409Z",
+            "modified": "2021-03-13T20:09:21.273409Z",
+            "name": "Rhode Island",
+            "country": "US",
+            "administrative_area": "US-RI",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--8a9e75a7-925c-4a87-95a2-7c52a3010655",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.008815Z",
+            "modified": "2021-03-13T20:09:21.008815Z",
+            "name": "Guyana",
+            "country": "GY",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--50c6c3b1-e804-4ba2-a623-8c210c6f4487",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.089607Z",
+            "modified": "2021-03-13T20:09:21.089607Z",
+            "name": "Norway",
+            "country": "NO",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--daee8acc-1456-4d93-bab4-0b88e5866f28",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.169502Z",
+            "modified": "2021-03-13T20:09:21.169502Z",
+            "name": "Saint Vincent and the Grenadines",
+            "country": "VC",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--c4ecea20-7e3d-45a4-a789-0a59c001b2e2",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.909902Z",
+            "modified": "2021-03-13T20:09:20.909902Z",
+            "name": "Azerbaijan",
+            "country": "AZ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--0b2f192b-5fdd-4fdd-8065-f17571e33b6b",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.272301Z",
+            "modified": "2021-03-13T20:09:21.272301Z",
+            "name": "Pennsylvania",
+            "country": "US",
+            "administrative_area": "US-PA",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--dcd3ae63-2bbf-4c64-997c-b731be5b2aa8",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.102076Z",
+            "modified": "2021-03-13T20:09:21.102076Z",
+            "name": "Papua New Guinea",
+            "country": "PG",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--269a1fc3-ffcd-4af7-8322-074033a759a0",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.21225Z",
+            "modified": "2021-03-13T20:09:21.21225Z",
+            "name": "Melanesia",
+            "region": "melanesia",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--72e102ae-6345-4a99-8e4e-00562dc08786",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.082642Z",
+            "modified": "2021-03-13T20:09:21.082642Z",
+            "name": "Niger",
+            "country": "NE",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--7189217c-f4b6-4e27-b1b4-222374029340",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.968999Z",
+            "modified": "2021-03-13T20:09:20.968999Z",
+            "name": "Djibouti",
+            "country": "DJ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--49b0c637-ab0d-4205-81a0-caed58240e7a",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.11623Z",
+            "modified": "2021-03-13T20:09:21.11623Z",
+            "name": "Saudi Arabia",
+            "country": "SA",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--0079f422-783b-4b5b-8766-0522a16c9095",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.11202Z",
+            "modified": "2021-03-13T20:09:21.11202Z",
+            "name": "R\u00e9union",
+            "country": "RE",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--f7347a59-4f6b-41fc-8544-becbe927c9a1",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.915305Z",
+            "modified": "2021-03-13T20:09:20.915305Z",
+            "name": "Burkina Faso",
+            "country": "BF",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--091b262e-392e-4b0d-8cc9-8a88950aacd0",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.10522Z",
+            "modified": "2021-03-13T20:09:21.10522Z",
+            "name": "Korea, Democratic People's Republic of",
+            "country": "KP",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--0a82c933-6daf-4438-b1c2-e3cefdccce64",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.125248Z",
+            "modified": "2021-03-13T20:09:21.125248Z",
+            "name": "Sierra Leone",
+            "country": "SL",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--183dcab2-9233-41ec-b77a-e197af3b94ee",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.135139Z",
+            "modified": "2021-03-13T20:09:21.135139Z",
+            "name": "Slovakia",
+            "country": "SK",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--c6145bb2-92ad-4f48-8117-896e109f126a",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.180431Z",
+            "modified": "2021-03-13T20:09:21.180431Z",
+            "name": "South Africa",
+            "country": "ZA",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--442212ce-ef18-4a9b-ac9f-f14236ca167f",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.262534Z",
+            "modified": "2021-03-13T20:09:21.262534Z",
+            "name": "New Hampshire",
+            "country": "US",
+            "administrative_area": "US-NH",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--415234bd-7bb7-4da0-9954-c30922a5cde2",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.108925Z",
+            "modified": "2021-03-13T20:09:21.108925Z",
+            "name": "Palestine, State of",
+            "country": "PS",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--b1fa144f-bda1-462a-9972-c1069395788e",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.957419Z",
+            "modified": "2021-03-13T20:09:20.957419Z",
+            "name": "Comoros",
+            "country": "KM",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--8fa35ff8-3d69-4ca6-805d-d28be97a81e2",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.967942Z",
+            "modified": "2021-03-13T20:09:20.967942Z",
+            "name": "Germany",
+            "country": "DE",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--24bde496-7842-4259-a5f7-9b1bc6e2cf82",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.233478Z",
+            "modified": "2021-03-13T20:09:21.233478Z",
+            "name": "Arizona",
+            "country": "US",
+            "administrative_area": "US-AZ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--767e1d99-8fea-40d8-ac17-7ab8d162c3b4",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.98365Z",
+            "modified": "2021-03-13T20:09:20.98365Z",
+            "name": "Fiji",
+            "country": "FJ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--9fc72e46-3804-4ba7-a62e-19c382c88cd3",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.066024Z",
+            "modified": "2021-03-13T20:09:21.066024Z",
+            "name": "Malta",
+            "country": "MT",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--729d6be3-49d6-4e0e-aa54-b45fc4744bc5",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.94886Z",
+            "modified": "2021-03-13T20:09:20.94886Z",
+            "name": "Cameroon",
+            "country": "CM",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--a913a77d-0885-4e28-bb4b-08bae90016a1",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.972863Z",
+            "modified": "2021-03-13T20:09:20.972863Z",
+            "name": "Dominican Republic",
+            "country": "DO",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--4fcc039a-4d5f-4bd8-a6a8-ebdb0499e794",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.933288Z",
+            "modified": "2021-03-13T20:09:20.933288Z",
+            "name": "Botswana",
+            "country": "BW",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--49bfaf93-f1b4-4b00-81a7-9809d09ea6b9",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.14956Z",
+            "modified": "2021-03-13T20:09:21.14956Z",
+            "name": "Turkmenistan",
+            "country": "TM",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--d9925004-e91b-47df-81ba-57176b6b4861",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.210195Z",
+            "modified": "2021-03-13T20:09:21.210195Z",
+            "name": "Oceania",
+            "region": "oceania",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--ea7e3d70-233e-4bbe-902c-86dcea8ad0bb",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.074876Z",
+            "modified": "2021-03-13T20:09:21.074876Z",
+            "name": "Martinique",
+            "country": "MQ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--3e61a94c-80d9-455d-9ecf-fdbc7264586a",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.122087Z",
+            "modified": "2021-03-13T20:09:21.122087Z",
+            "name": "Saint Helena, Ascension and Tristan da Cunha",
+            "country": "SH",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--78a7f0f3-ea60-4ca2-894e-9e825b94b592",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.286293Z",
+            "modified": "2021-03-13T20:09:21.286293Z",
+            "name": "District of Columbia",
+            "country": "US",
+            "administrative_area": "US-DC",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--285cd9ec-27f7-4f48-b47f-8a229db7493d",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.073397Z",
+            "modified": "2021-03-13T20:09:21.073397Z",
+            "name": "Montserrat",
+            "country": "MS",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--54b9fae7-0dca-4ec3-ba4c-12a6fd5307c5",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.230312Z",
+            "modified": "2021-03-13T20:09:21.230312Z",
+            "name": "Yukon",
+            "country": "CA",
+            "administrative_area": "YT",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--378c0f51-afe3-45de-961b-0b61cf8eaf62",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.278779Z",
+            "modified": "2021-03-13T20:09:21.278779Z",
+            "name": "Utah",
+            "country": "US",
+            "administrative_area": "US-UT",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--78c356ed-18bd-48fb-b398-6b999c016e94",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.087395Z",
+            "modified": "2021-03-13T20:09:21.087395Z",
+            "name": "Niue",
+            "country": "NU",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--fa5a923e-4e29-4a65-8e2a-e20244c0256f",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.181463Z",
+            "modified": "2021-03-13T20:09:21.181463Z",
+            "name": "Zambia",
+            "country": "ZM",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--255090d6-c793-4247-80e3-9501f51c041d",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.895619Z",
+            "modified": "2021-03-13T20:09:20.895619Z",
+            "name": "\u00c5land Islands",
+            "country": "AX",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--48c15b20-7d97-4e00-976c-1f2c02fceae5",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.139658Z",
+            "modified": "2021-03-13T20:09:21.139658Z",
+            "name": "Sint Maarten (Dutch part)",
+            "country": "SX",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--936bb942-56dc-4e44-a286-b37a9dc448e7",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.987333Z",
+            "modified": "2021-03-13T20:09:20.987333Z",
+            "name": "Faroe Islands",
+            "country": "FO",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--070a8da5-2cf1-4418-8d69-12d1a0057ebe",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.274471Z",
+            "modified": "2021-03-13T20:09:21.274471Z",
+            "name": "South Carolina",
+            "country": "US",
+            "administrative_area": "US-SC",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--1d944e21-948b-4793-892d-ad338b20253c",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.234888Z",
+            "modified": "2021-03-13T20:09:21.234888Z",
+            "name": "Arkansas",
+            "country": "US",
+            "administrative_area": "US-AR",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--61388a83-506e-4908-85ef-d599915de6ba",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.014478Z",
+            "modified": "2021-03-13T20:09:21.014478Z",
+            "name": "Haiti",
+            "country": "HT",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--3ae9ac9d-0935-4ff8-a2a9-2a9ee83df65d",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.897925Z",
+            "modified": "2021-03-13T20:09:20.897925Z",
+            "name": "Andorra",
+            "country": "AD",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--120a9206-e217-41bf-8530-579f14c92df4",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.29507Z",
+            "modified": "2021-03-13T20:09:21.29507Z",
+            "name": "Armed Forces Americas",
+            "country": "US",
+            "administrative_area": "US-AA",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--f9994b38-f083-407b-882c-a191f77cdd82",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.270124Z",
+            "modified": "2021-03-13T20:09:21.270124Z",
+            "name": "Oklahoma",
+            "country": "US",
+            "administrative_area": "US-OK",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--101ba56a-3ede-4052-8961-098939cc3b64",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.231362Z",
+            "modified": "2021-03-13T20:09:21.231362Z",
+            "name": "Alabama",
+            "country": "US",
+            "administrative_area": "US-AL",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--a3c24408-ece9-424d-9d3a-402939f142cb",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.944701Z",
+            "modified": "2021-03-13T20:09:20.944701Z",
+            "name": "China",
+            "country": "CN",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--54d9721c-6413-4b79-9b9d-5e0ee7bf7489",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.954397Z",
+            "modified": "2021-03-13T20:09:20.954397Z",
+            "name": "Cook Islands",
+            "country": "CK",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--4d93c1ba-1d8c-441b-83c5-259db5a960da",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.013355Z",
+            "modified": "2021-03-13T20:09:21.013355Z",
+            "name": "Croatia",
+            "country": "HR",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--d2bb7ca3-c029-4f4e-9bba-8e23b1692395",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.962369Z",
+            "modified": "2021-03-13T20:09:20.962369Z",
+            "name": "Cura\u00e7ao",
+            "country": "CW",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--124b8173-b282-49be-82db-fbe5eadb8602",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.042034Z",
+            "modified": "2021-03-13T20:09:21.042034Z",
+            "name": "Lebanon",
+            "country": "LB",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--a867f258-ddc5-4474-b2df-1090273e0ccd",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.281948Z",
+            "modified": "2021-03-13T20:09:21.281948Z",
+            "name": "Washington",
+            "country": "US",
+            "administrative_area": "US-WA",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--f6601fff-c808-43e7-a940-dd66d7187797",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.071212Z",
+            "modified": "2021-03-13T20:09:21.071212Z",
+            "name": "Mozambique",
+            "country": "MZ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--439c08ac-7bf2-4089-aad3-562f113e3c69",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.070179Z",
+            "modified": "2021-03-13T20:09:21.070179Z",
+            "name": "Northern Mariana Islands",
+            "country": "MP",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--8dc9c340-7eae-420c-aa94-251ab4bd45b2",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.251208Z",
+            "modified": "2021-03-13T20:09:21.251208Z",
+            "name": "Maine",
+            "country": "US",
+            "administrative_area": "US-ME",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--67c0299a-080e-433d-b541-c81a3cc99cd9",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.156471Z",
+            "modified": "2021-03-13T20:09:21.156471Z",
+            "name": "Turkey",
+            "country": "TR",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--012cbee6-eb43-4c0c-a04d-45d855ce2a86",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.908849Z",
+            "modified": "2021-03-13T20:09:20.908849Z",
+            "name": "Austria",
+            "country": "AT",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--5c94c876-ff98-4330-a6c4-837d40d2194a",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.025452Z",
+            "modified": "2021-03-13T20:09:21.025452Z",
+            "name": "Israel",
+            "country": "IL",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--fa91f3f3-27af-4850-b93a-9b1ed9721638",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.91756Z",
+            "modified": "2021-03-13T20:09:20.91756Z",
+            "name": "Bulgaria",
+            "country": "BG",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--34f0b03b-9aa5-4183-a35e-a947c378b758",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.994308Z",
+            "modified": "2021-03-13T20:09:20.994308Z",
+            "name": "Ghana",
+            "country": "GH",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--aefbbe9d-8952-49bc-9b46-96deefe241aa",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.07232Z",
+            "modified": "2021-03-13T20:09:21.07232Z",
+            "name": "Mauritania",
+            "country": "MR",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--3d0319a6-59ee-4884-a553-b7b4b7845431",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.167235Z",
+            "modified": "2021-03-13T20:09:21.167235Z",
+            "name": "Uzbekistan",
+            "country": "UZ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--775c5857-2c5a-42ba-8b8c-749ab5734e86",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.183631Z",
+            "modified": "2021-03-13T20:09:21.183631Z",
+            "name": "Africa",
+            "region": "africa",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--e4043fbc-01ca-4c3d-9c3b-25f4d5588f1b",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.115204Z",
+            "modified": "2021-03-13T20:09:21.115204Z",
+            "name": "Rwanda",
+            "country": "RW",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--708919c5-692c-41f1-b2ef-4a0e66298b95",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.015611Z",
+            "modified": "2021-03-13T20:09:21.015611Z",
+            "name": "Hungary",
+            "country": "HU",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--b2cdc75c-61c7-48b3-a4b0-ee7960df63e2",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.288509Z",
+            "modified": "2021-03-13T20:09:21.288509Z",
+            "name": "Guam",
+            "country": "US",
+            "administrative_area": "US-GU",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--6c0a07f9-ba11-4017-bda7-5530c9ebb103",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.118902Z",
+            "modified": "2021-03-13T20:09:21.118902Z",
+            "name": "Senegal",
+            "country": "SN",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--c4a69c77-2b81-4eff-bf34-d7a105402020",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.98258Z",
+            "modified": "2021-03-13T20:09:20.98258Z",
+            "name": "Finland",
+            "country": "FI",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--a8fb8465-2244-47ce-b500-8726f691282f",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.092844Z",
+            "modified": "2021-03-13T20:09:21.092844Z",
+            "name": "New Zealand",
+            "country": "NZ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--4e55a15a-2517-42af-8942-564bde3dc013",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.09071Z",
+            "modified": "2021-03-13T20:09:21.09071Z",
+            "name": "Nepal",
+            "country": "NP",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--7ff7aafe-c313-42d3-8745-cd74a85f4846",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.029845Z",
+            "modified": "2021-03-13T20:09:21.029845Z",
+            "name": "Jordan",
+            "country": "JO",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--5b0a7927-d8ef-4208-90c2-957ee2adb9a6",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.05896Z",
+            "modified": "2021-03-13T20:09:21.05896Z",
+            "name": "Madagascar",
+            "country": "MG",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--0ebbe953-02a8-4ea7-a10e-8be3f4cca0aa",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.189066Z",
+            "modified": "2021-03-13T20:09:21.189066Z",
+            "name": "Southern Africa",
+            "region": "southern-africa",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--da04b83d-09ef-4bca-8900-fc8e9d671ddb",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.192392Z",
+            "modified": "2021-03-13T20:09:21.192392Z",
+            "name": "Latin America Caribbean",
+            "region": "latin-america-caribbean",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--9417e19a-20a1-4c7f-bb35-a1559da597d1",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.932239Z",
+            "modified": "2021-03-13T20:09:20.932239Z",
+            "name": "Bouvet Island",
+            "country": "BV",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--2e683e11-a9fd-4e9e-a672-8e01d81b68f7",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.964631Z",
+            "modified": "2021-03-13T20:09:20.964631Z",
+            "name": "Cayman Islands",
+            "country": "KY",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--eb8d62cf-ec41-4d58-9fe8-3c27a7766e0e",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.910956Z",
+            "modified": "2021-03-13T20:09:20.910956Z",
+            "name": "Burundi",
+            "country": "BI",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--cc0d6e71-115c-4d74-8f1a-805e089a1329",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.20123Z",
+            "modified": "2021-03-13T20:09:21.20123Z",
+            "name": "Southern Asia",
+            "region": "southern-asia",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--3a5117e7-3095-46b9-b401-e0922a5017f0",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.054522Z",
+            "modified": "2021-03-13T20:09:21.054522Z",
+            "name": "Saint Martin (French part)",
+            "country": "MF",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--463acaa8-65da-4d50-8090-08883bf31ad5",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.170582Z",
+            "modified": "2021-03-13T20:09:21.170582Z",
+            "name": "Venezuela, Bolivarian Republic of",
+            "country": "VE",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--dbc46977-40aa-44a5-8b80-2eb05942099c",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.097504Z",
+            "modified": "2021-03-13T20:09:21.097504Z",
+            "name": "Pitcairn",
+            "country": "PN",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--9e8dc013-00aa-49d9-8766-52fcaf7ec242",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.001659Z",
+            "modified": "2021-03-13T20:09:21.001659Z",
+            "name": "Greece",
+            "country": "GR",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--dd23d58d-7ef8-4d24-aa00-b7931cc91ea4",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.081594Z",
+            "modified": "2021-03-13T20:09:21.081594Z",
+            "name": "New Caledonia",
+            "country": "NC",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--9f6fe7b4-482c-4300-a103-944614bd4fb0",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.103116Z",
+            "modified": "2021-03-13T20:09:21.103116Z",
+            "name": "Poland",
+            "country": "PL",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--dabb5c97-297b-4d55-9759-a0acb8ddf42b",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.24899Z",
+            "modified": "2021-03-13T20:09:21.24899Z",
+            "name": "Kentucky",
+            "country": "US",
+            "administrative_area": "US-KY",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--566ebb23-d5b2-426b-9a0d-e71b7619f6b9",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.17714Z",
+            "modified": "2021-03-13T20:09:21.17714Z",
+            "name": "Wallis and Futuna",
+            "country": "WF",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--04fcb24a-472f-4215-9c6c-80200fee0c1d",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.894593Z",
+            "modified": "2021-03-13T20:09:20.894593Z",
+            "name": "Anguilla",
+            "country": "AI",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--44baebef-fe85-4de2-b21c-a41369433460",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.963505Z",
+            "modified": "2021-03-13T20:09:20.963505Z",
+            "name": "Christmas Island",
+            "country": "CX",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--f5ae3ed7-514b-499f-8d53-697ea9e09cad",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.255748Z",
+            "modified": "2021-03-13T20:09:21.255748Z",
+            "name": "Minnesota",
+            "country": "US",
+            "administrative_area": "US-MN",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--3c5740f3-cadc-4200-8d6d-40529fec42a0",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.162461Z",
+            "modified": "2021-03-13T20:09:21.162461Z",
+            "name": "Ukraine",
+            "country": "UA",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--a6468ea5-349a-429e-92d3-1e6f9201ee9e",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.285235Z",
+            "modified": "2021-03-13T20:09:21.285235Z",
+            "name": "Wyoming",
+            "country": "US",
+            "administrative_area": "US-WY",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--1d939ab2-0abc-4beb-ba08-226d49824c48",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.03675Z",
+            "modified": "2021-03-13T20:09:21.03675Z",
+            "name": "Kiribati",
+            "country": "KI",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--25986f30-e484-4712-9859-c45408b3ca51",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.137303Z",
+            "modified": "2021-03-13T20:09:21.137303Z",
+            "name": "Sweden",
+            "country": "SE",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--5eebf19e-17a8-4b00-b167-f2230bd9d851",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.252348Z",
+            "modified": "2021-03-13T20:09:21.252348Z",
+            "name": "Maryland",
+            "country": "US",
+            "administrative_area": "US-MD",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--e8e9222d-8031-4238-9600-64ad363f96d9",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.138511Z",
+            "modified": "2021-03-13T20:09:21.138511Z",
+            "name": "Eswatini",
+            "country": "SZ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--7eb8ffea-91e1-47e3-a67e-ca91c9933a66",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.958497Z",
+            "modified": "2021-03-13T20:09:20.958497Z",
+            "name": "Cabo Verde",
+            "country": "CV",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--2e4d42e3-abcd-4de9-bc8a-ae3edd26d592",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.265824Z",
+            "modified": "2021-03-13T20:09:21.265824Z",
+            "name": "New York",
+            "country": "US",
+            "administrative_area": "US-NY",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--85978b7e-489d-4843-a873-1b7597571c4d",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.035695Z",
+            "modified": "2021-03-13T20:09:21.035695Z",
+            "name": "Cambodia",
+            "country": "KH",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--32fccece-848a-4cdd-b025-edae8f863392",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.276675Z",
+            "modified": "2021-03-13T20:09:21.276675Z",
+            "name": "Tennessee",
+            "country": "US",
+            "administrative_area": "US-TN",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--a76c4fb1-4067-4753-a533-bb5add38a964",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.046724Z",
+            "modified": "2021-03-13T20:09:21.046724Z",
+            "name": "Liechtenstein",
+            "country": "LI",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--db2c0197-3e17-4400-bf0b-f62bffff78fa",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.235971Z",
+            "modified": "2021-03-13T20:09:21.235971Z",
+            "name": "California",
+            "country": "US",
+            "administrative_area": "US-CA",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--ff032e68-83a1-4301-a7df-1104191aaca6",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.053173Z",
+            "modified": "2021-03-13T20:09:21.053173Z",
+            "name": "Macao",
+            "country": "MO",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--a88c07ab-2734-4e78-b01e-e4a740ae5946",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.26029Z",
+            "modified": "2021-03-13T20:09:21.26029Z",
+            "name": "Nebraska",
+            "country": "US",
+            "administrative_area": "US-NE",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--a0a43d59-dfc2-44ad-9287-1ffd9b34da03",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.198112Z",
+            "modified": "2021-03-13T20:09:21.198112Z",
+            "name": "Asia",
+            "region": "asia",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--b4c78083-d56b-4344-81cc-bd8d672442da",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.026492Z",
+            "modified": "2021-03-13T20:09:21.026492Z",
+            "name": "Italy",
+            "country": "IT",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--ae7f8601-7b82-4b61-86dd-cff46c7eb809",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.223525Z",
+            "modified": "2021-03-13T20:09:21.223525Z",
+            "name": "Nova Scotia",
+            "country": "CA",
+            "administrative_area": "NS",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--27e33e48-7c99-412f-a9df-898e37d61878",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.893512Z",
+            "modified": "2021-03-13T20:09:20.893512Z",
+            "name": "Angola",
+            "country": "AO",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--9ea668db-66cf-48ff-94cc-4e762e19f12e",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.076086Z",
+            "modified": "2021-03-13T20:09:21.076086Z",
+            "name": "Mauritius",
+            "country": "MU",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--db9f67f5-729c-4140-a171-2f8966381efe",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.018754Z",
+            "modified": "2021-03-13T20:09:21.018754Z",
+            "name": "India",
+            "country": "IN",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--bc24e752-666d-400d-a078-b2afe2f19a9c",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.920045Z",
+            "modified": "2021-03-13T20:09:20.920045Z",
+            "name": "Bahamas",
+            "country": "BS",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--b8094305-3f3d-48f5-b907-d62d83d68e8f",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.144359Z",
+            "modified": "2021-03-13T20:09:21.144359Z",
+            "name": "Chad",
+            "country": "TD",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--6192c8f9-57b4-4f9c-aa33-ca2e226927c0",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.269035Z",
+            "modified": "2021-03-13T20:09:21.269035Z",
+            "name": "Ohio",
+            "country": "US",
+            "administrative_area": "US-OH",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--3d176d69-f662-44dc-9f86-37e0654eebe5",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.060033Z",
+            "modified": "2021-03-13T20:09:21.060033Z",
+            "name": "Maldives",
+            "country": "MV",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--73bdfbfc-7920-43ed-b89f-8146f6e1c18e",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.214682Z",
+            "modified": "2021-03-13T20:09:21.214682Z",
+            "name": "Polynesia",
+            "region": "polynesia",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--9d186ad6-3162-41d6-a096-a670d13fdbd4",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.160871Z",
+            "modified": "2021-03-13T20:09:21.160871Z",
+            "name": "Uganda",
+            "country": "UG",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--494c839f-f72f-4002-806e-f680f1ef3b2a",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.891211Z",
+            "modified": "2021-03-13T20:09:20.891211Z",
+            "name": "Aruba",
+            "country": "AW",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--c49c857e-0234-46c2-9dc6-3747684ad7ee",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.006699Z",
+            "modified": "2021-03-13T20:09:21.006699Z",
+            "name": "French Guiana",
+            "country": "GF",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--3a096745-0ac9-4e4a-9dc7-f54adc1322b5",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.024366Z",
+            "modified": "2021-03-13T20:09:21.024366Z",
+            "name": "Iceland",
+            "country": "IS",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--77a7d187-0ea7-4da3-9ad7-40c1ca7d2505",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.981544Z",
+            "modified": "2021-03-13T20:09:20.981544Z",
+            "name": "Ethiopia",
+            "country": "ET",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--682a87d4-e3e5-4a58-828c-673df8d8e148",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.154091Z",
+            "modified": "2021-03-13T20:09:21.154091Z",
+            "name": "Trinidad and Tobago",
+            "country": "TT",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--d0580f3d-bac2-4f8e-a6d7-2c5e1aebb0a6",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.197062Z",
+            "modified": "2021-03-13T20:09:21.197062Z",
+            "name": "Northern America",
+            "region": "northern-america",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--91d41a44-e57d-4231-96fb-03219a410ee8",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.104169Z",
+            "modified": "2021-03-13T20:09:21.104169Z",
+            "name": "Puerto Rico",
+            "country": "PR",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--8bb153ed-0bca-4ca5-bee8-950759bf2717",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.905021Z",
+            "modified": "2021-03-13T20:09:20.905021Z",
+            "name": "French Southern Territories",
+            "country": "TF",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--a9a71b6c-7740-4056-a588-91d8ac238d80",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.27553Z",
+            "modified": "2021-03-13T20:09:21.27553Z",
+            "name": "South Dakota",
+            "country": "US",
+            "administrative_area": "US-SD",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--0a55e8c1-1d85-4b3a-ad2c-ec5b418fcb5e",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.247939Z",
+            "modified": "2021-03-13T20:09:21.247939Z",
+            "name": "Kansas",
+            "country": "US",
+            "administrative_area": "US-KS",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--4742166f-762a-44ae-b22d-2ed44f8ebf2d",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.086242Z",
+            "modified": "2021-03-13T20:09:21.086242Z",
+            "name": "Nicaragua",
+            "country": "NI",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--b01eba9a-7582-450a-8729-2f0e99f15186",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.069146Z",
+            "modified": "2021-03-13T20:09:21.069146Z",
+            "name": "Mongolia",
+            "country": "MN",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--8ae75a15-061e-4d5d-af4c-e08bdfb059a0",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.980482Z",
+            "modified": "2021-03-13T20:09:20.980482Z",
+            "name": "Estonia",
+            "country": "EE",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--ff4d07df-da97-49cc-bb66-cf1ca5a5fe89",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.052137Z",
+            "modified": "2021-03-13T20:09:21.052137Z",
+            "name": "Latvia",
+            "country": "LV",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--05e68c34-1b27-43f3-b3f5-f7b92288fa18",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.892482Z",
+            "modified": "2021-03-13T20:09:20.892482Z",
+            "name": "Afghanistan",
+            "country": "AF",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--c0ed322e-2638-4a46-8699-75d71311ae33",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.975004Z",
+            "modified": "2021-03-13T20:09:20.975004Z",
+            "name": "Ecuador",
+            "country": "EC",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--a3577e3d-0676-447b-a3f8-c500d8061053",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.127399Z",
+            "modified": "2021-03-13T20:09:21.127399Z",
+            "name": "San Marino",
+            "country": "SM",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--646c0d1e-6049-4e52-8de5-64c4d992e329",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.926301Z",
+            "modified": "2021-03-13T20:09:20.926301Z",
+            "name": "Bolivia, Plurinational State of",
+            "country": "BO",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--f9c38d6e-2ef4-414b-8dbf-05093a4cd0c5",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.986288Z",
+            "modified": "2021-03-13T20:09:20.986288Z",
+            "name": "France",
+            "country": "FR",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--20e727e4-0816-43ef-9c6c-43cbc9e60e3b",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.049812Z",
+            "modified": "2021-03-13T20:09:21.049812Z",
+            "name": "Lithuania",
+            "country": "LT",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--c04c5acb-bc7e-4448-a603-c655858656bd",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.007763Z",
+            "modified": "2021-03-13T20:09:21.007763Z",
+            "name": "Guam",
+            "country": "GU",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--56dbe3c9-bab7-40ea-9012-d305047a70c6",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.178374Z",
+            "modified": "2021-03-13T20:09:21.178374Z",
+            "name": "Samoa",
+            "country": "WS",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--67c11aef-af54-4c35-be42-e8bfd929bde1",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.168409Z",
+            "modified": "2021-03-13T20:09:21.168409Z",
+            "name": "Holy See (Vatican City State)",
+            "country": "VA",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--1bede5ee-0ee7-4def-8c33-2e1f88e3eeb4",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.185455Z",
+            "modified": "2021-03-13T20:09:21.185455Z",
+            "name": "Eastern Africa",
+            "region": "eastern-africa",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--b74ea056-83ac-4b6c-996f-f50d27da1d67",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.017721Z",
+            "modified": "2021-03-13T20:09:21.017721Z",
+            "name": "Isle of Man",
+            "country": "IM",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--aca16148-ac23-4c7d-ac66-949e58952e87",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.921065Z",
+            "modified": "2021-03-13T20:09:20.921065Z",
+            "name": "Bosnia and Herzegovina",
+            "country": "BA",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--d790564d-2e3e-420a-a7e7-15a07c63ff30",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.928834Z",
+            "modified": "2021-03-13T20:09:20.928834Z",
+            "name": "Barbados",
+            "country": "BB",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--fa34bd2f-56eb-4e6a-8d64-5b076d0083c6",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.193461Z",
+            "modified": "2021-03-13T20:09:21.193461Z",
+            "name": "South America",
+            "region": "south-america",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--250e52c7-e394-4dce-b416-c0d39fc54455",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.121048Z",
+            "modified": "2021-03-13T20:09:21.121048Z",
+            "name": "South Georgia and the South Sandwich Islands",
+            "country": "GS",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--bc2a166e-0df2-41bd-a076-bbb02d38472b",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.261466Z",
+            "modified": "2021-03-13T20:09:21.261466Z",
+            "name": "Nevada",
+            "country": "US",
+            "administrative_area": "US-NV",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--bbf06113-7a5a-465d-8a8e-e5a8f3da22ca",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.225835Z",
+            "modified": "2021-03-13T20:09:21.225835Z",
+            "name": "Ontario",
+            "country": "CA",
+            "administrative_area": "ON",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--139a05b0-cd04-4e70-b865-5965ad42807c",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.245816Z",
+            "modified": "2021-03-13T20:09:21.245816Z",
+            "name": "Indiana",
+            "country": "US",
+            "administrative_area": "US-IN",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--3c64308f-8fb3-4d13-87ac-eb2d604dc39a",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.126373Z",
+            "modified": "2021-03-13T20:09:21.126373Z",
+            "name": "El Salvador",
+            "country": "SV",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--8b7e6ddd-c968-4257-a3cd-7106fec1f03d",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.011948Z",
+            "modified": "2021-03-13T20:09:21.011948Z",
+            "name": "Honduras",
+            "country": "HN",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--c99af3bf-d43c-48fd-b752-483a1d7cf1e1",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.296166Z",
+            "modified": "2021-03-13T20:09:21.296166Z",
+            "name": "Armed Forces Pacific",
+            "country": "US",
+            "administrative_area": "US-AP",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--d3e8df20-0e5d-411b-ab63-658e26b95b3a",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.055748Z",
+            "modified": "2021-03-13T20:09:21.055748Z",
+            "name": "Morocco",
+            "country": "MA",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--4e0842f2-b023-4ba3-ad36-e94c46e5ead8",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.250141Z",
+            "modified": "2021-03-13T20:09:21.250141Z",
+            "name": "Louisiana",
+            "country": "US",
+            "administrative_area": "US-LA",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--f5afa7ce-2700-4e72-9622-ad34e9488975",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.961187Z",
+            "modified": "2021-03-13T20:09:20.961187Z",
+            "name": "Cuba",
+            "country": "CU",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--c760c60a-2b1f-4e47-82ee-941a49535a3b",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.088459Z",
+            "modified": "2021-03-13T20:09:21.088459Z",
+            "name": "Netherlands",
+            "country": "NL",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--62018a49-4508-43d6-b82e-bdff62f60a0a",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.277729Z",
+            "modified": "2021-03-13T20:09:21.277729Z",
+            "name": "Texas",
+            "country": "US",
+            "administrative_area": "US-TX",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--ffe4726c-2df5-41ae-a484-5cb22f76633b",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.237047Z",
+            "modified": "2021-03-13T20:09:21.237047Z",
+            "name": "Colorado",
+            "country": "US",
+            "administrative_area": "US-CO",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--1ed84e38-3ba7-4f2f-9a8a-dfa09b4e0140",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.947006Z",
+            "modified": "2021-03-13T20:09:20.947006Z",
+            "name": "C\u00f4te d'Ivoire",
+            "country": "CI",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--b70c9058-db8c-4120-be7f-da45cbc7bde0",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.259121Z",
+            "modified": "2021-03-13T20:09:21.259121Z",
+            "name": "Montana",
+            "country": "US",
+            "administrative_area": "US-MT",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--12c2260a-626f-43f7-b8c8-501f388076d5",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.141182Z",
+            "modified": "2021-03-13T20:09:21.141182Z",
+            "name": "Seychelles",
+            "country": "SC",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--3e6dd1da-9b89-4217-9631-7312882d6244",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.938689Z",
+            "modified": "2021-03-13T20:09:20.938689Z",
+            "name": "Cocos (Keeling) Islands",
+            "country": "CC",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--011a9d8e-75eb-475a-a861-6998e9968287",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.215907Z",
+            "modified": "2021-03-13T20:09:21.215907Z",
+            "name": "Antarctica",
+            "region": "antarctica",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--5a1229df-29c6-4711-bde4-839e58a7686f",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.916504Z",
+            "modified": "2021-03-13T20:09:20.916504Z",
+            "name": "Bangladesh",
+            "country": "BD",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--913622cd-9d31-456e-9dcd-2526f26b7fce",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.998564Z",
+            "modified": "2021-03-13T20:09:20.998564Z",
+            "name": "Gambia",
+            "country": "GM",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--4a8b0bd7-d4d2-4499-a236-d94bd22ff2ae",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.254676Z",
+            "modified": "2021-03-13T20:09:21.254676Z",
+            "name": "Michigan",
+            "country": "US",
+            "administrative_area": "US-MI",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--d325becc-8d86-46a8-88bb-989d2ac5fbe7",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.985062Z",
+            "modified": "2021-03-13T20:09:20.985062Z",
+            "name": "Falkland Islands (Malvinas)",
+            "country": "FK",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--a2fa3116-e7f2-44bf-828e-76e88e4216d8",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.959513Z",
+            "modified": "2021-03-13T20:09:20.959513Z",
+            "name": "Costa Rica",
+            "country": "CR",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--131db43e-9f5c-4a72-9102-6fe0dd8e8039",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.9658Z",
+            "modified": "2021-03-13T20:09:20.9658Z",
+            "name": "Cyprus",
+            "country": "CY",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--e0545c92-f0a3-40f5-90db-d54992b2ea07",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.117611Z",
+            "modified": "2021-03-13T20:09:21.117611Z",
+            "name": "Sudan",
+            "country": "SD",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--10b8481a-742e-4055-858e-11d92a94a157",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.95085Z",
+            "modified": "2021-03-13T20:09:20.95085Z",
+            "name": "Congo, The Democratic Republic of the",
+            "country": "CD",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "marking-definition",
+            "spec_version": "2.1",
+            "id": "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf",
+            "created": "2021-03-13T20:09:20.886268Z",
+            "definition_type": "statement",
+            "definition": {
+                "statement": "This content is subject to open source license terms expressed in the BSD-3-Clause License. For more information, please see https://github.com/oasis-open/cti-stix-common-objects"
+            }
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--86cc35fd-6697-4a59-9284-516a9134d99e",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.028815Z",
+            "modified": "2021-03-13T20:09:21.028815Z",
+            "name": "Jersey",
+            "country": "JE",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--19a87129-d48d-4ec7-b5d7-0034d05068c1",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.182523Z",
+            "modified": "2021-03-13T20:09:21.182523Z",
+            "name": "Zimbabwe",
+            "country": "ZW",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--39207bbd-f34c-42ea-a9f0-86f165e4df26",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.997521Z",
+            "modified": "2021-03-13T20:09:20.997521Z",
+            "name": "Guadeloupe",
+            "country": "GP",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--79423efd-046a-4938-994a-8aef65dad046",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.020817Z",
+            "modified": "2021-03-13T20:09:21.020817Z",
+            "name": "Ireland",
+            "country": "IE",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--d2d3fe68-73f3-46d2-ab7e-aa6a262b7b61",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.267977Z",
+            "modified": "2021-03-13T20:09:21.267977Z",
+            "name": "North Dakota",
+            "country": "US",
+            "administrative_area": "US-ND",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--83722f72-ae00-4276-8365-e1f00824a53e",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.131527Z",
+            "modified": "2021-03-13T20:09:21.131527Z",
+            "name": "South Sudan",
+            "country": "SS",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--e19e307e-7d45-44cb-ba57-fca720d83d62",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.238097Z",
+            "modified": "2021-03-13T20:09:21.238097Z",
+            "name": "Connecticut",
+            "country": "US",
+            "administrative_area": "US-CT",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--b85a719c-899a-471e-8418-3bbce0106afb",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.207088Z",
+            "modified": "2021-03-13T20:09:21.207088Z",
+            "name": "Northern Europe",
+            "region": "northern-europe",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--b2973077-fc4f-4ae8-91c7-67dac58bcf73",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.196022Z",
+            "modified": "2021-03-13T20:09:21.196022Z",
+            "name": "Central America",
+            "region": "central-america",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--c6d36ae8-444b-42ae-aced-5763c0826d5e",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.00449Z",
+            "modified": "2021-03-13T20:09:21.00449Z",
+            "name": "Greenland",
+            "country": "GL",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--e6da102a-de9c-4d64-9a13-b587962a1fc5",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.009864Z",
+            "modified": "2021-03-13T20:09:21.009864Z",
+            "name": "Hong Kong",
+            "country": "HK",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--95cc9338-4d01-4ea5-9083-6f487c64f364",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.179399Z",
+            "modified": "2021-03-13T20:09:21.179399Z",
+            "name": "Yemen",
+            "country": "YE",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--d4cfdef1-5a53-46f5-b1e8-380a2281eac8",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.996466Z",
+            "modified": "2021-03-13T20:09:20.996466Z",
+            "name": "Guinea",
+            "country": "GN",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--527c8085-4f69-48b6-ad4f-adc4bf89a695",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.9231Z",
+            "modified": "2021-03-13T20:09:20.9231Z",
+            "name": "Belarus",
+            "country": "BY",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--4a694334-fd6e-49f0-bb87-5848ff0c3e53",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.023047Z",
+            "modified": "2021-03-13T20:09:21.023047Z",
+            "name": "Iraq",
+            "country": "IQ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--483449b4-c96f-4b52-b90c-0cb5fe029106",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.976145Z",
+            "modified": "2021-03-13T20:09:20.976145Z",
+            "name": "Egypt",
+            "country": "EG",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--d3b22604-842a-400f-91c5-e97b6b61fffa",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.079477Z",
+            "modified": "2021-03-13T20:09:21.079477Z",
+            "name": "Mayotte",
+            "country": "YT",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--5a126759-ddc6-4b51-a80f-72a647aab18f",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.24687Z",
+            "modified": "2021-03-13T20:09:21.24687Z",
+            "name": "Iowa",
+            "country": "US",
+            "administrative_area": "US-IA",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "identity",
+            "spec_version": "2.1",
+            "id": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.8889Z",
+            "modified": "2021-03-13T20:09:20.8889Z",
+            "name": "OASIS",
+            "description": "OASIS is a global community of experts who drive the creation and adoption of open standards promoting interoperability, innovation, and freedom of choice.",
+            "identity_class": "organization"
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--24e52000-9345-4c6d-944d-1025dd7fc9e4",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.978396Z",
+            "modified": "2021-03-13T20:09:20.978396Z",
+            "name": "Western Sahara",
+            "country": "EH",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--a8eb29a9-934e-4e1f-9811-b6f912af8dfa",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.133596Z",
+            "modified": "2021-03-13T20:09:21.133596Z",
+            "name": "Suriname",
+            "country": "SR",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--a73f4072-d458-4c5b-9fb1-94be6e16f87a",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.206032Z",
+            "modified": "2021-03-13T20:09:21.206032Z",
+            "name": "Eastern Europe",
+            "region": "eastern-europe",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--a671a264-b0d7-47ad-9275-23614b2e0748",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.098799Z",
+            "modified": "2021-03-13T20:09:21.098799Z",
+            "name": "Peru",
+            "country": "PE",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--2bf30395-652c-45b4-8ff7-514de8388bd3",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.010907Z",
+            "modified": "2021-03-13T20:09:21.010907Z",
+            "name": "Heard Island and McDonald Islands",
+            "country": "HM",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--2e84797c-418e-42f8-b227-9b7678f1ffc0",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.999599Z",
+            "modified": "2021-03-13T20:09:20.999599Z",
+            "name": "Guinea-Bissau",
+            "country": "GW",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--4d78affd-1233-4919-92d8-ea37ab6e6791",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.132564Z",
+            "modified": "2021-03-13T20:09:21.132564Z",
+            "name": "Sao Tome and Principe",
+            "country": "ST",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--b68044d4-1d75-4b02-a9c7-90e4cbc901f8",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.942573Z",
+            "modified": "2021-03-13T20:09:20.942573Z",
+            "name": "Chile",
+            "country": "CL",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--55bdef4f-279e-4e3e-865a-d62a6e63e701",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.037775Z",
+            "modified": "2021-03-13T20:09:21.037775Z",
+            "name": "Saint Kitts and Nevis",
+            "country": "KN",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--45394913-cd28-4fc3-9425-abc3212a7bcb",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.083676Z",
+            "modified": "2021-03-13T20:09:21.083676Z",
+            "name": "Norfolk Island",
+            "country": "NF",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--870a8776-26aa-441a-8eac-4d7b5a6fa0dc",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.061088Z",
+            "modified": "2021-03-13T20:09:21.061088Z",
+            "name": "Mexico",
+            "country": "MX",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--9b174249-1d4b-4be9-83ad-a83576a8db1d",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.966866Z",
+            "modified": "2021-03-13T20:09:20.966866Z",
+            "name": "Czechia",
+            "country": "CZ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--0dee353f-4ae0-4b8c-a183-ebec952baf99",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.291722Z",
+            "modified": "2021-03-13T20:09:21.291722Z",
+            "name": "US Virgin Islands",
+            "country": "US",
+            "administrative_area": "US-VI",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--7fff8e6e-08ed-425b-8a06-3271584cbdb4",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.003297Z",
+            "modified": "2021-03-13T20:09:21.003297Z",
+            "name": "Grenada",
+            "country": "GD",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--7f8f5c5a-9921-4334-a967-1dc931f76614",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.15096Z",
+            "modified": "2021-03-13T20:09:21.15096Z",
+            "name": "Timor-Leste",
+            "country": "TL",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--6c598d3f-4307-4daf-9358-98bf626c74ac",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.253498Z",
+            "modified": "2021-03-13T20:09:21.253498Z",
+            "name": "Massachusetts",
+            "country": "US",
+            "administrative_area": "US-MA",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--af312c9d-6750-4a70-a2f2-d293af334e97",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.934617Z",
+            "modified": "2021-03-13T20:09:20.934617Z",
+            "name": "Central African Republic",
+            "country": "CF",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--7d5e7f0d-21db-475e-b671-56914f718e8f",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.914197Z",
+            "modified": "2021-03-13T20:09:20.914197Z",
+            "name": "Bonaire, Sint Eustatius and Saba",
+            "country": "BQ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--7a341500-61f0-4dd8-bfe9-11646d8963b8",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.00063Z",
+            "modified": "2021-03-13T20:09:21.00063Z",
+            "name": "Equatorial Guinea",
+            "country": "GQ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--6468247d-e665-4338-b737-4c3bcda93d23",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.194812Z",
+            "modified": "2021-03-13T20:09:21.194812Z",
+            "name": "Caribbean",
+            "region": "caribbean",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--535a1bb9-7cec-4308-93cc-2ab06dd40f02",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.202339Z",
+            "modified": "2021-03-13T20:09:21.202339Z",
+            "name": "South Eastern Asia",
+            "region": "south-eastern-asia",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--81aedd92-8adc-4b9f-8129-75f85af95285",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.244763Z",
+            "modified": "2021-03-13T20:09:21.244763Z",
+            "name": "Illinois",
+            "country": "US",
+            "administrative_area": "US-IL",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--3fd2a560-7d20-458a-9ef5-bde504bdbbe3",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.034171Z",
+            "modified": "2021-03-13T20:09:21.034171Z",
+            "name": "Kyrgyzstan",
+            "country": "KG",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--58d6b24e-c5e1-4e2b-96fe-c280a10339dd",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.924124Z",
+            "modified": "2021-03-13T20:09:20.924124Z",
+            "name": "Belize",
+            "country": "BZ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--29f41013-d04e-4d5c-99b3-255dbf085a36",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.157616Z",
+            "modified": "2021-03-13T20:09:21.157616Z",
+            "name": "Tuvalu",
+            "country": "TV",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--7ac49cdc-f670-4a2d-b90e-df2d5b42b3de",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.931225Z",
+            "modified": "2021-03-13T20:09:20.931225Z",
+            "name": "Bhutan",
+            "country": "BT",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--7347ba47-8bb0-4fb5-a907-71d1d3906b29",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.032972Z",
+            "modified": "2021-03-13T20:09:21.032972Z",
+            "name": "Kenya",
+            "country": "KE",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--80f1a367-8230-4ed1-8c0b-02809307fde0",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.03996Z",
+            "modified": "2021-03-13T20:09:21.03996Z",
+            "name": "Kuwait",
+            "country": "KW",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--0c0b297f-078d-4060-a106-510726ad4ca6",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.204979Z",
+            "modified": "2021-03-13T20:09:21.204979Z",
+            "name": "Europe",
+            "region": "europe",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--110cde43-da2f-41ff-bcbc-50ca0444c702",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.292845Z",
+            "modified": "2021-03-13T20:09:21.292845Z",
+            "name": "Marshall Islands",
+            "country": "US",
+            "administrative_area": "US-MH",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--24781b0c-107d-46f2-95aa-7bd8519dbf28",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.257886Z",
+            "modified": "2021-03-13T20:09:21.257886Z",
+            "name": "Missouri",
+            "country": "US",
+            "administrative_area": "US-MO",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--f52c74b9-b384-436c-ad49-a20fcec3a98f",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.955916Z",
+            "modified": "2021-03-13T20:09:20.955916Z",
+            "name": "Colombia",
+            "country": "CO",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--167ee1f0-9945-413a-8d23-d6084a6f4b02",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.232416Z",
+            "modified": "2021-03-13T20:09:21.232416Z",
+            "name": "Alaska",
+            "country": "US",
+            "administrative_area": "US-AK",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--5726e380-d485-4aa5-9aaa-9f6d828a1d15",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.142265Z",
+            "modified": "2021-03-13T20:09:21.142265Z",
+            "name": "Syrian Arab Republic",
+            "country": "SY",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--a53933c2-6896-4957-bcb7-f6b3b77629ba",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.068108Z",
+            "modified": "2021-03-13T20:09:21.068108Z",
+            "name": "Montenegro",
+            "country": "ME",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--a72ce27b-7f1a-4b17-ad17-002295206218",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.166112Z",
+            "modified": "2021-03-13T20:09:21.166112Z",
+            "name": "United States",
+            "country": "US",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--ed2fe216-d648-4825-bd2e-ab3872d0cf85",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.901908Z",
+            "modified": "2021-03-13T20:09:20.901908Z",
+            "name": "Armenia",
+            "country": "AM",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--428b8d9a-4cc3-4c98-a8fd-f868feff1e62",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.899404Z",
+            "modified": "2021-03-13T20:09:20.899404Z",
+            "name": "United Arab Emirates",
+            "country": "AE",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--96a4d687-22a2-429a-8a6b-8b06d03c92c3",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.00559Z",
+            "modified": "2021-03-13T20:09:21.00559Z",
+            "name": "Guatemala",
+            "country": "GT",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--c9b54d98-e933-41f2-8800-83ea25afea7a",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.147481Z",
+            "modified": "2021-03-13T20:09:21.147481Z",
+            "name": "Tajikistan",
+            "country": "TJ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--595a241b-8786-44ed-8d00-0e58776c0574",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.100939Z",
+            "modified": "2021-03-13T20:09:21.100939Z",
+            "name": "Palau",
+            "country": "PW",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--64911901-8223-436c-a93c-a6df009f694e",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.04568Z",
+            "modified": "2021-03-13T20:09:21.04568Z",
+            "name": "Saint Lucia",
+            "country": "LC",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--cf47f07b-6a8b-4aa4-bbe1-aca45ad0694d",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.97394Z",
+            "modified": "2021-03-13T20:09:20.97394Z",
+            "name": "Algeria",
+            "country": "DZ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--8ab6e3a6-d61a-4c29-b8c7-0d5d66f87d5b",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.159796Z",
+            "modified": "2021-03-13T20:09:21.159796Z",
+            "name": "Tanzania, United Republic of",
+            "country": "TZ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--c4714d1c-52cb-4c14-bad8-b58cf8a2423a",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.290631Z",
+            "modified": "2021-03-13T20:09:21.290631Z",
+            "name": "Puerto Rico",
+            "country": "US",
+            "administrative_area": "US-PR",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--9c251c86-f415-4824-9d9c-f2087cebfd96",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.07836Z",
+            "modified": "2021-03-13T20:09:21.07836Z",
+            "name": "Malaysia",
+            "country": "MY",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--e88092cb-6056-4558-97b0-9dee28760a0f",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.107747Z",
+            "modified": "2021-03-13T20:09:21.107747Z",
+            "name": "Paraguay",
+            "country": "PY",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--71fee545-b2a2-4bb4-8d15-1bcb3fe03b17",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.094944Z",
+            "modified": "2021-03-13T20:09:21.094944Z",
+            "name": "Pakistan",
+            "country": "PK",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--78b70340-9642-47df-a47f-9498601cc3ad",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.24151Z",
+            "modified": "2021-03-13T20:09:21.24151Z",
+            "name": "Georgia",
+            "country": "US",
+            "administrative_area": "US-GA",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--e1f32746-dad7-4c33-a6e8-ddd1d463df06",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.222467Z",
+            "modified": "2021-03-13T20:09:21.222467Z",
+            "name": "Northwest Territories",
+            "country": "CA",
+            "administrative_area": "NT",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--4d31dcb7-1abb-4d1a-ab98-82859f784750",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.187964Z",
+            "modified": "2021-03-13T20:09:21.187964Z",
+            "name": "Northern Africa",
+            "region": "northern-africa",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--62b57560-2987-4580-b8ca-06a66f96235d",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.217041Z",
+            "modified": "2021-03-13T20:09:21.217041Z",
+            "name": "Alberta",
+            "country": "CA",
+            "administrative_area": "AB",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--0f917779-5421-49fb-b437-a3ef72f1dc62",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.084773Z",
+            "modified": "2021-03-13T20:09:21.084773Z",
+            "name": "Nigeria",
+            "country": "NG",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--50286cc8-a723-41e2-a180-813331bd831f",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.224574Z",
+            "modified": "2021-03-13T20:09:21.224574Z",
+            "name": "Nunavut",
+            "country": "CA",
+            "administrative_area": "NU",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--fbcb9d22-d72e-4f46-a57b-c51ab4d3a6c7",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.041001Z",
+            "modified": "2021-03-13T20:09:21.041001Z",
+            "name": "Lao People's Democratic Republic",
+            "country": "LA",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--dd4ea245-5d51-4a8b-a779-38de75509f4e",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.200189Z",
+            "modified": "2021-03-13T20:09:21.200189Z",
+            "name": "Eastern Asia",
+            "region": "eastern-asia",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--2dccaa8d-c2a7-4521-8181-5f252dcffd3f",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.031916Z",
+            "modified": "2021-03-13T20:09:21.031916Z",
+            "name": "Kazakhstan",
+            "country": "KZ",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--c07f6204-8226-4586-848a-098717b8c7a3",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.988445Z",
+            "modified": "2021-03-13T20:09:20.988445Z",
+            "name": "Micronesia, Federated States of",
+            "country": "FM",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--a6e81045-1d7a-41d2-870a-8124bb723e8c",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.129467Z",
+            "modified": "2021-03-13T20:09:21.129467Z",
+            "name": "Saint Pierre and Miquelon",
+            "country": "PM",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--104c4c66-9bdd-442d-aefd-0d5f5edf8e8c",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.047753Z",
+            "modified": "2021-03-13T20:09:21.047753Z",
+            "name": "Sri Lanka",
+            "country": "LK",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--9bc3d6e0-8277-447a-bc2c-64849f5b09b0",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.243709Z",
+            "modified": "2021-03-13T20:09:21.243709Z",
+            "name": "Idaho",
+            "country": "US",
+            "administrative_area": "US-ID",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--dc1aa604-7948-4cac-87ec-d481aaf49524",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.093884Z",
+            "modified": "2021-03-13T20:09:21.093884Z",
+            "name": "Oman",
+            "country": "OM",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--4d0c38bf-2219-495a-88e1-d6052bfc186c",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:21.211227Z",
+            "modified": "2021-03-13T20:09:21.211227Z",
+            "name": "Australia New Zealand",
+            "region": "australia-new-zealand",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        },
+        {
+            "type": "location",
+            "spec_version": "2.1",
+            "id": "location--2be119cc-5509-43fe-811a-f413a3e71f28",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "created": "2021-03-13T20:09:20.925147Z",
+            "modified": "2021-03-13T20:09:20.925147Z",
+            "name": "Bermuda",
+            "country": "BM",
+            "object_marking_refs": [
+                "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf"
+            ]
+        }
+    ],
+    "type": "bundle",
+    "id": "bundle--33c1312a-91bc-4b5a-8d4a-f536a07d9d0e"
+}
