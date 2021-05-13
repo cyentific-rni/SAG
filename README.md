@@ -50,13 +50,13 @@ The entity that created a STIX Object is an inherent, factual part of that objec
 
 The STIX objects available in this repository **complement** the ones found in the [Official MITRE GitHub Repository](https://github.com/mitre/cti/tree/eb1b9385d44340ce867a77358c5f5aaed666e54c/enterprise-attack); thus, the objects from both repositories should be utilized/imported.
 
-In addition, to avoid duplicating objects, we utilized the [STIX location objects](https://github.com/oasis-open/cti-stix-common-objects/tree/main/objects/location) from the OASIS CTI TC [common objects repository](https://github.com/oasis-open/cti-stix-common-objects) to connect the intrusion sets/ATT&CK Groups with their possible origin and targeted countries/regions, and thus, those objects should be utilized/imported too. The location objects have been created based on the ISO 3166-1 standard, and they contain a valid ISO 3166-1 ALPHA-2 Code using the country property.
+In addition, to avoid duplicating objects, we utilized the [STIX location objects](https://github.com/oasis-open/cti-stix-common-objects/tree/main/objects/location) from the OASIS CTI TC [common objects repository](https://github.com/oasis-open/cti-stix-common-objects) to connect the intrusion sets/ATT&CK Groups with their possible origin and targeted countries/regions, and thus, those objects should be utilized/imported too. The location objects have been populated based on the ISO 3166-1 and the United Nations M49 standards.
 
 **Overall to make use of this project, the following objects need to be utilized/imported:**
 
-1. The STIX Objects available in the folders [intrusion-set](), [relationship](), [identity](), and [location]() of this repository (required).
-2. The MITRE-generated STIX Objects available in the folder [intrusion-set](https://github.com/mitre/cti/tree/master/enterprise-attack/intrusion-set) (required) within the [enterprise-attack](https://github.com/mitre/cti/tree/master/enterprise-attack) folder in GitHub, and optionally the rest of the object folders.
-3. The STIX Objects available in the folders [location](https://github.com/oasis-open/cti-stix-common-objects/tree/main/objects/location) of the OASIS CTI TC (required).
+1. The STIX Objects available in the folders [intrusion-set](), [relationship](), [identity](), and [location]() of this repository (required), **or the [enterprise-attack-enrich.json]() file that unifies all the objects together**.
+2. The MITRE-generated STIX Objects available in the folder [intrusion-set](https://github.com/mitre/cti/tree/master/enterprise-attack/intrusion-set) (required) within the [enterprise-attack](https://github.com/mitre/cti/tree/master/enterprise-attack) folder in GitHub, and optionally the rest of the object folders, **or the MITRE-generated [enterprise-attack.json]() file that unifies all the objects together**.
+3. The STIX Objects available in the folders [location](https://github.com/oasis-open/cti-stix-common-objects/tree/main/objects/location) of the OASIS CTI TC (required), **or our generated [oasis-cti-stix-common-objects-location.json]() file that unifies all the objects together**.
 
 The ATT&CK STIX representation is most easily manipulated in Python using the stix2 library. However, because STIX 2.0 is represented in JSON, other programming languages can easily interact with the raw content [3]. Also, dedicated efforts that work with STIX can be used (e.g., the OpenCTI platform).
 
