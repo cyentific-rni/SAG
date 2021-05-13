@@ -1,3 +1,12 @@
+## Table of Contents
+
+* [Summary](#summary)
+* [How do i operationalize this work and access the ATT&CK STIX representation?](#how-do-i-operationalize-this-work-and-access-the-attck-stix-representation)
+* [Confidence level](#confidence-level)
+* [Glossary](#glossary)
+* [References](#references)
+
+
 ## Summary
 This repository provides an elevated [STIX](https://oasis-open.github.io/cti-documentation/stix/intro.html) representation of the [MITRE ATT&CK Groups knowledge base](https://attack.mitre.org/groups/), structurally extending the one provided in the [Official MITRE GitHub Repository](https://github.com/mitre/cti/tree/master/enterprise-attack/intrusion-set).
 
@@ -138,6 +147,10 @@ The ATT&CK STIX representation is most easily manipulated in Python using the st
 The additional structured information provided in the feeds of this repository have been extracted from the descriptions of the MITRE ATT&CK Groups and should not be immediately considered of high confidence. The extraction has been performed programmatically using Natural Language Processing (NLP).
 
 ## Glossary
+
+STIX: Structured Threat Information eXpression
+
+ATT&CK: Adversarial Tactics, Techniques, and Common Knowledge
 
 sdo: STIX Domain Object
 
