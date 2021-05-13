@@ -54,15 +54,15 @@ In addition, to avoid duplicating objects, we utilized the [STIX location object
 
 **Overall to make use of this project, the following objects need to be utilized/imported:**
 
-1. The STIX Objects available in the folders [intrusion-set](), [relationship](), [identity](), and [location]() of this repository (required), **or the [enterprise-attack-enrich.json]() file that unifies all the objects together**.
-2. The MITRE-generated STIX Objects available in the folder [intrusion-set](https://github.com/mitre/cti/tree/master/enterprise-attack/intrusion-set) (required) within the [enterprise-attack](https://github.com/mitre/cti/tree/master/enterprise-attack) folder in GitHub, and optionally the rest of the object folders, **or the MITRE-generated [enterprise-attack.json]() file that unifies all the objects together**.
-3. The STIX Objects available in the folders [location](https://github.com/oasis-open/cti-stix-common-objects/tree/main/objects/location) of the OASIS CTI TC (required), **or our generated [oasis-cti-stix-common-objects-location.json]() file that unifies all the objects together**.
+1. The STIX Objects available in the folders [intrusion-set](https://github.com/fovea-research/SAG/tree/main/intrusion-set), [relationship](https://github.com/fovea-research/SAG/tree/main/relationship), [identity](https://github.com/fovea-research/SAG/tree/main/identity), and [location](https://github.com/fovea-research/SAG/tree/main/location) of this repository (required), **or the [enterprise-attack-enrich.json](https://raw.githubusercontent.com/fovea-research/SAG/main/enterprise-attack-enrich.json) file that unifies all the objects together**.
+2. The MITRE-generated STIX Objects available in the folder [intrusion-set](https://github.com/mitre/cti/tree/master/enterprise-attack/intrusion-set) (required) within the [enterprise-attack](https://github.com/mitre/cti/tree/master/enterprise-attack) folder in GitHub, and optionally the rest of the object folders, **or the MITRE-generated [enterprise-attack.json](https://raw.githubusercontent.com/mitre/cti/master/enterprise-attack/enterprise-attack.json) file that unifies all the objects together**.
+3. The STIX Objects available in the folders [location](https://github.com/oasis-open/cti-stix-common-objects/tree/main/objects/location) of the OASIS CTI TC (required), **or our generated [oasis-cti-stix-common-objects-location.json](https://raw.githubusercontent.com/fovea-research/SAG/main/oasis-cti-stix-common-object-location.json) file that unifies all the objects together**.
 
 The ATT&CK STIX representation is most easily manipulated in Python using the stix2 library. However, because STIX 2.1 is represented in JSON, other programming languages can easily interact with the raw content [3]. Also, dedicated efforts that work with STIX can be used (e.g., the OpenCTI platform).
 
 ---
 
-### The vocabularies/lists that have been used to enrich the STIX representation of ATT&CK Groups and can be used to perform queries and conduct analysis are:
+### The lists/taxonomies that have been used to enrich the STIX representation of ATT&CK Groups and can be used to perform queries and conduct analysis are:
 
 * Countries based on ISO 3166-1:
   * ALPHA-2 Codes. Can be queried using the `country` property of the `location` object.
