@@ -74,7 +74,8 @@ The ATT&CK STIX representation is most easily manipulated in Python using the st
 
 * Motivations as presented in the [STIX Specification Version 2.1 Committee Specification 02 - Attack Motivation Vocabulary](https://docs.oasis-open.org/cti/stix/v2.1/cs02/stix-v2.1-cs02.html#_dmb1khqsn650).
 
-* A sector/industry taxonomy as presented right below.
+* A sector/industry taxonomy as presented right below. **Note that the sector/industry taxonomy for cyber threat intelligence is a work in progress from the [OASIS Threat Actor Context Technical Committee (TAC)](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=tac)**. The specification perse will be referenced when it will reach the Committee Specification status/level from OASIS.
+
   * aerospace
     * aviation
   * agriculture
@@ -144,7 +145,7 @@ sro: STIX Relationship Object
 
 ## References
 
-[1] Slide deck regarding the idea/concept, presented at the 6th EU MITRE ATT&CK Workshop (October 23, 2020): [Presentation 9](https://web.tresorit.com/l/FDl4u#NHx11i1KRZQQjHFGg01Jsg&viewer=o0IL9EDvNwpAxQ54TpClIFyBxFRaTFbq)
+[1] Slide deck regarding the idea/concept, presented at the 6th EU MITRE ATT&CK Workshop (October 23, 2020). [Presentation 9](https://web.tresorit.com/l/FDl4u#NHx11i1KRZQQjHFGg01Jsg&viewer=o0IL9EDvNwpAxQ54TpClIFyBxFRaTFbq)
 
 [2] “Adversarial Tactics, Techniques & Common Knowledge (ATT&CK),” MITRE, 2021. [Online]. Available: https://attack.mitre.org/groups/
 
@@ -152,6 +153,10 @@ sro: STIX Relationship Object
 
 [4] MITRE Github - STIX interface for ATT&CK, MITRE, 2021. Accessed: May 1, 2021. [Online]. Available: https://github.com/mitre/cti/tree/master/enterprise-attack/intrusion-set.
 (Note: commit eb1b9385d44340ce867a77358c5f5aaed666e54c)
+
+[5] STIX™ Version 2.1. Edited by Bret Jordan, Rich Piazza, and Trey Darley. 25 January 2021. OASIS Committee Specification 02. https://docs.oasis-open.org/cti/stix/v2.1/cs02/stix-v2.1-cs02.html. Latest stage: https://docs.oasis-open.org/cti/stix/v2.1/stix-v2.1.html.
+
+[6] OASIS Threat Actor Context (TAC) Technical Committee. [Online]. Available: https://www.oasis-open.org/committees/tac
 
 
 ## Research Team
