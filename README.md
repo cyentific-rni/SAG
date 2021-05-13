@@ -60,6 +60,78 @@ In addition, to avoid duplicating objects, we utilized the [STIX location object
 
 The ATT&CK STIX representation is most easily manipulated in Python using the stix2 library. However, because STIX 2.1 is represented in JSON, other programming languages can easily interact with the raw content [3]. Also, dedicated efforts that work with STIX can be used (e.g., the OpenCTI platform).
 
+---
+
+### The vocabularies/lists that have been used to enrich the STIX representation of ATT&CK Groups and can be used to perform queries and conduct analysis are:
+
+* Countries based on ISO 3166-1:
+  * ALPHA-2 Codes. Can be queried using the `country` property of the `location` object.
+  * Country names. Can be queried using the `name` property of the `location` object.
+
+
+* Geographic regions based on the United Nations M49 Standard and two additional, namely, `middle-east` and `south-china-sea`:
+  *  Can be queried using the `region` property of the `location` object. The region list can be found also in the [STIX Specification Version 2.1 Committee Specification 02 - Region Vocabulary](https://docs.oasis-open.org/cti/stix/v2.1/cs02/stix-v2.1-cs02.html#_i1sw27qw1v0s).
+
+* Motivations as presented in the [STIX Specification Version 2.1 Committee Specification 02 - Attack Motivation Vocabulary](https://docs.oasis-open.org/cti/stix/v2.1/cs02/stix-v2.1-cs02.html#_dmb1khqsn650).
+
+* A sector/industry taxonomy as presented right below.
+  * aerospace
+    * aviation
+  * agriculture
+  * automotive
+  * biotechnology
+  * chemical
+  * commercial
+    * retail
+  * consulting
+  * construction
+  * cosmetics
+  * critical-infrastructure
+  * dams
+  * defense
+  * education
+  * emergency-services
+  * energy
+    * non-renewable-energy
+    * renewable-energy
+  * media
+  * financial
+    * banking
+  * food
+  * gambling
+  * government
+    * local-government
+    * national-government
+    * regional-government
+    * public-services
+  * healthcare
+    * hospital
+  * information-communications-technology
+    * electronics-hardware
+    * software
+    * telecommunications
+  * legal-services
+  * lodging
+  * manufacturing
+  * maritime
+  * metals
+  * mining
+  * non-profit
+    * humanitarian-aid
+    * human-rights
+  * nuclear
+  * petroleum
+  * pharmaceuticals
+  * research
+  * transportation
+    * logistics-shipping
+  * utilities
+  * video-game
+  * water
+
+
+---
+
 ## Confidence level
 
 The additional structured information provided in the feeds of this repository have been extracted from the descriptions of the MITRE ATT&CK Groups and should not be immediately considered of high confidence. The extraction has been performed programmatically using Natural Language Processing (NLP).
