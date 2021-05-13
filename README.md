@@ -151,12 +151,14 @@ sro: STIX Relationship Object
 
 [3] “Accessing ATT&CK Data,” MITRE, 2021. [Online]. Available: https://attack.mitre.org/resources/working-with-attack/
 
-[4] MITRE Github - STIX interface for ATT&CK, MITRE, 2021. Accessed: May 1, 2021. [Online]. Available: https://github.com/mitre/cti/tree/master/enterprise-attack/intrusion-set.
+[4] MITRE Github - STIX Interface for ATT&CK, MITRE, 2021. Accessed: May 1, 2021. [Online]. Available: https://github.com/mitre/cti/tree/master/enterprise-attack/intrusion-set.
 (Note: commit eb1b9385d44340ce867a77358c5f5aaed666e54c)
 
-[5] STIX™ Version 2.1. Edited by Bret Jordan, Rich Piazza, and Trey Darley. 25 January 2021. OASIS Committee Specification 02. https://docs.oasis-open.org/cti/stix/v2.1/cs02/stix-v2.1-cs02.html. Latest stage: https://docs.oasis-open.org/cti/stix/v2.1/stix-v2.1.html.
+[5] STIX™ Version 2.1. Edited by Bret Jordan, Rich Piazza, and Trey Darley. 25 January 2021. OASIS Committee Specification 02. https://docs.oasis-open.org/cti/stix/v2.1/cs02/stix-v2.1-cs02.html. Latest stage: https://docs.oasis-open.org/cti/stix/v2.1/stix-v2.1.html. (Note: commit for location objects 942af96041439aa3fda01c85133701cc1b27abdf)
 
-[6] OASIS Threat Actor Context (TAC) Technical Committee. [Online]. Available: https://www.oasis-open.org/committees/tac
+[6] OASIS Open GitHub - CTI STIX Common Objects, OASIS, 2021. Accessed: May 13, 2021. [Online]. Available: https://github.com/oasis-open/cti-stix-common-objects
+
+[7] OASIS Threat Actor Context (TAC) Technical Committee. [Online]. Available: https://www.oasis-open.org/committees/tac
 
 
 ## Research Team
