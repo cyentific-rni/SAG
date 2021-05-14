@@ -175,7 +175,7 @@ sro: STIX Relationship Object
 
 
 ## Acknowledgements
-This project has been partially funded by the Research Council of Norway (Grant: 303585 - CyberHunt).
+This project has been partially funded by the Research Council of Norway (Grant Number: 303585 - CyberHunt).
 
 ## Research Team
 
