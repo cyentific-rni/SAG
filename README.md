@@ -8,7 +8,7 @@
 
 
 ## Summary
-This repository provides an elevated [STIX](https://oasis-open.github.io/cti-documentation/stix/intro.html) representation of the [MITRE ATT&CK Groups knowledge base](https://attack.mitre.org/groups/), structurally extending the one provided in the [Official MITRE GitHub Repository](https://github.com/mitre/cti/tree/master/enterprise-attack/intrusion-set).
+This repository provides an elevated [STIX](https://oasis-open.github.io/cti-documentation/stix/intro.html) representation of the [MITRE ATT&CK Groups knowledge base v11.1](https://attack.mitre.org/groups/), structurally extending the one provided in the [Official MITRE GitHub Repository](https://github.com/mitre/cti/tree/master/enterprise-attack/intrusion-set).
 
 The version/commit that has been used for this project is [1c96a78cb5d7fc53ab18d0cd3686e8f690115943](https://github.com/mitre/cti/tree/1c96a78cb5d7fc53ab18d0cd3686e8f690115943/enterprise-attack/intrusion-set).
 
