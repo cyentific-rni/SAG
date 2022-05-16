@@ -174,9 +174,6 @@ sro: STIX Relationship Object
 [7] OASIS Threat Actor Context (TAC) Technical Committee. [Online]. Available: https://www.oasis-open.org/committees/tac
 
 
-## Acknowledgements
-This project has been partially funded by the Research Council of Norway (Grant Number: 303585 - CyberHunt).
-
 ## Research Team
 
 * [Vasileios Mavroeidis](https://www.linkedin.com/in/vasileiosmavroeidis/)
